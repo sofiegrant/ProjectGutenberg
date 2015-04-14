@@ -1,0 +1,163 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/216">
+    <pgterms:webpage rdf:resource="http://www.gutenberg.org/browse/authors/u#a49"/>
+    <pgterms:alias>Anonyme</pgterms:alias>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Anonymity"/>
+    <pgterms:name>Anonymous</pgterms:name>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.kindle.noimages">
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474704</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:13:53.293781</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/browse/authors/u#a49">
+    <dcterms:description>See also: Unknown</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124">
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.txt.utf-8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.qioo"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-04-01</dcterms:issued>
+    <dcterms:subject rdf:nodeID="A4"/>
+    <dcterms:tableOfContents>The First Book of Esdras -- The Second Book of Esdras Esdras [sometimes Fourth Book of Ezra] -- The Greek Additions to Esther -- The First Book of the Maccabees -- The Second Book of the Maccabees -- The Book of Tobit -- The Book of Judith -- The Wisdom of Solomon -- The Book of Sirach (or Ecclesiasticus) -- The Book of Baruch -- The Epistle (or letter) of Jeremiah -- The Book of Susanna (in Daniel) -- The Prayer of Azariah -- The Prayer of Manasseh -- Bel and the Dragon (in Daniel).</dcterms:tableOfContents>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.epub.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.html.gen"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 10th Grader</dcterms:audience>
+    <dcterms:subject rdf:nodeID="A5"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</pgterms:downloads>
+    <dcterms:language rdf:nodeID="A6"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/216"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.kindle.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/124/124.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/124.plucker"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <dcterms:type rdf:nodeID="A8"/>
+    <dcterms:title>Deuterocanonical Books of the Bible&#xD;
+Apocrypha</dcterms:title>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/124/124.zip"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anonymity">
+    <dcterms:description>Wikipedia on "Anonymity"</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Bible. Apocrypha</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.epub.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338277</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:13:50.310764</dcterms:modified>
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.txt.utf-8">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:13:46.281790</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874792</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/124/124.txt">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-11T19:33:34</dcterms:modified>
+    <dcterms:format rdf:nodeID="A10"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874824</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.html.gen">
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">975445</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:13:42.682387</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value>BS</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/124/124.zip">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-11T19:33:42</dcterms:modified>
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290448</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <dcterms:format rdf:nodeID="A9"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.qioo">
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">352374</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-17T17:03:30.890831</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value>Apocryphal books (Old Testament)</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/124.plucker">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/124"/>
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">466784</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-17T17:03:41.008691</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,166 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/231.plucker">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75631</dcterms:extent>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-17T17:14:40.975074</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/129">
+    <pgterms:alias>Vergilius Maro, Publius</pgterms:alias>
+    <pgterms:alias>Vergil</pgterms:alias>
+    <pgterms:name>Virgil</pgterms:name>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-19</pgterms:deathdate>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-70</pgterms:birthdate>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Virgil"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/231/231-h/231-h.htm">
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-03T11:58:04</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132918</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/231/231.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51498</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-03T11:58:12</dcterms:modified>
+    <dcterms:format rdf:nodeID="A4"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <dcterms:format rdf:nodeID="A5"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/231">
+    <dcterms:language rdf:nodeID="A6"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: College</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/231/231-h.zip"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-03-01</dcterms:issued>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</pgterms:downloads>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/231/231.zip"/>
+    <dcterms:type rdf:nodeID="A8"/>
+    <dcterms:title>Georgicon</dcterms:title>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/231/231-h/231-h.htm"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/231.qioo"/>
+    <dcterms:alternative>The Georgics</dcterms:alternative>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 7th Grader</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/231.epub.noimages"/>
+    <dcterms:subject rdf:nodeID="A9"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/129"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/231.txt.utf-8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/231/231.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/231.plucker"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/231.epub.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71427</dcterms:extent>
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:23:46.341120</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/231.txt.utf-8">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-14T16:23:45.734748</dcterms:modified>
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124664</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">la</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/231.qioo">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-17T17:14:39.590461</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113407</dcterms:extent>
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value>PA</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Virgil">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value>Agriculture -- Poetry</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/231/231.txt">
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-03T11:58:04</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124696</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/231/231-h.zip">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/231"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-03T11:58:12</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53067</dcterms:extent>
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:format rdf:nodeID="A14"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <rdf:value>Didactic poetry, Latin</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+</rdf:RDF>

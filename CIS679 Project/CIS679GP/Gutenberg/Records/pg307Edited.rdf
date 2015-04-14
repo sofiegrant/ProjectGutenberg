@@ -1,0 +1,183 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307.qioo">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145171</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-21T10:25:48.656522</dcterms:modified>
+    <dcterms:format rdf:nodeID="A1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Banjo_Paterson">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/307/307.txt">
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-29T12:32:38</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208504</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307.kindle.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379557</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:format rdf:nodeID="A4"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-21T10:25:50.164508</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Frontier and pioneer life -- Australia -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/118">
+    <pgterms:alias>Paterson, Andrew Barton</pgterms:alias>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Banjo_Paterson"/>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1941</pgterms:deathdate>
+    <pgterms:name>Paterson, A. B. (Andrew Barton)</pgterms:name>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1864</pgterms:birthdate>
+    <pgterms:alias>Paterson, Banjo</pgterms:alias>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value>Short stories, Australian</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307.txt.utf-8">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-21T10:25:48.504520</dcterms:modified>
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208476</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307.plucker">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-21T10:25:51.227491</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:format rdf:nodeID="A7"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123507</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/307/307-h.zip">
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86721</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-20T10:34:08</dcterms:modified>
+    <dcterms:format rdf:nodeID="A2"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307.epub.noimages">
+    <dcterms:format rdf:nodeID="A6"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92421</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-21T10:25:49.094510</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>PR</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value>Australia -- Social life and customs -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/307/307-h/307-h.htm">
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240517</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-20T10:33:28</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/307">
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:title>Three Elephant Power, and Other Stories</dcterms:title>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</pgterms:downloads>
+    <dcterms:subject rdf:nodeID="A8"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/307.kindle.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/307.txt.utf-8"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/118"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/307.plucker"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/307.epub.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/307.qioo"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/307/307-h.zip"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-06-29</dcterms:issued>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/307/307-h/307-h.htm"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/307/307.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/307/307.zip"/>
+    <dcterms:tableOfContents>Three elephant power -- The Oracle -- The cast-iron canvasser -- The Merino sheep -- The bullock -- White-when-he's-wanted -- The downfall of Mulligan's -- The amateur gardener -- Thirsty Island -- Dan Fitzgerald explains -- The cat -- Sitting in judgment -- The dog -- The dog as a sportsman -- Concerning a steeplechase rider -- Victor second -- Concerning a dog-fight -- His masterpiece -- Done for the double.</dcterms:tableOfContents>
+    <dcterms:language rdf:nodeID="A16"/>
+    <dcterms:type rdf:nodeID="A5"/>
+    <dcterms:subject rdf:nodeID="A15"/>
+    <dcterms:subject rdf:nodeID="A13"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 9th Grader</dcterms:audience>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/307/307.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83263</dcterms:extent>
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:format rdf:nodeID="A14"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/307"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-29T12:37:32</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+</rdf:RDF>

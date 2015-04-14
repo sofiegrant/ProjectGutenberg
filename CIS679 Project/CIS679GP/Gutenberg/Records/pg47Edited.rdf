@@ -1,0 +1,197 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47.plucker">
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304925</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:18.320820</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47">
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject rdf:nodeID="A6"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/47/47.zip"/>
+    <dcterms:language rdf:nodeID="A2"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/47/47-h.zip"/>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <dcterms:type rdf:nodeID="A8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/47/47-h/47-h.htm"/>
+    <dcterms:subject rdf:nodeID="A9"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/36"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/47.qioo"/>
+    <dcterms:title>Anne of Avonlea</dcterms:title>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1121</pgterms:downloads>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 6th Grader</dcterms:audience>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:subject rdf:nodeID="A11"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/47.epub.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/47.txt.utf-8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/47.kindle.noimages"/>
+    <dcterms:subject rdf:nodeID="A12"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/47.plucker"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/47/47.txt"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-03-08</dcterms:issued>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <dcterms:subject rdf:nodeID="A13"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/47/47.txt">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517582</dcterms:extent>
+    <dcterms:format rdf:nodeID="A15"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-09-10T09:13:50</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Prince Edward Island -- History -- 20th century -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47.txt.utf-8">
+    <dcterms:format rdf:nodeID="A5"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:11.199915</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517554</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47.epub.noimages">
+    <dcterms:format rdf:nodeID="A16"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:12.380897</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216511</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47.kindle.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881751</dcterms:extent>
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:15.191873</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Canada -- History -- 1914-1945 -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/47/47-h.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206648</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-11T12:42:46</dcterms:modified>
+    <dcterms:format rdf:nodeID="A19"/>
+    <dcterms:format rdf:nodeID="A4"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Islands -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value>PZ</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value>Shirley, Anne (Fictitious character) -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/47/47-h/47-h.htm">
+    <dcterms:format rdf:nodeID="A17"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588982</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-11T12:41:56</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/36">
+    <pgterms:alias>Montgomery, Lucy Maud</pgterms:alias>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1874</pgterms:birthdate>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery"/>
+    <pgterms:alias>MacDonald, Lucy Maud Montgomery</pgterms:alias>
+    <pgterms:name>Montgomery, L. M. (Lucy Maud)</pgterms:name>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1942</pgterms:deathdate>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/47.qioo">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:11.437912</dcterms:modified>
+    <dcterms:format rdf:nodeID="A14"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261560</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value>Orphans -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/47/47.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199527</dcterms:extent>
+    <dcterms:format rdf:nodeID="A18"/>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-09-10T09:23:48</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/47"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value>Teachers -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+</rdf:RDF>

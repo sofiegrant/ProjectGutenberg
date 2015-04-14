@@ -1,0 +1,166 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/441.kindle.noimages">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339232</dcterms:extent>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-13T11:26:00.043120</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/441.epub.noimages">
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-13T11:25:57.187157</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78376</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/35">
+    <pgterms:name>Stevenson, Robert Louis</pgterms:name>
+    <pgterms:alias>Stevenson, R. L. (Robert Louis)</pgterms:alias>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1894</pgterms:deathdate>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1850</pgterms:birthdate>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Robert_Louis_Stevenson"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/441">
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/441/441-h/441-h.htm"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject rdf:nodeID="A4"/>
+    <dcterms:type rdf:nodeID="A5"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/441.epub.noimages"/>
+    <dcterms:subject rdf:nodeID="A6"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-02-01</dcterms:issued>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/441/441-h.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/441.plucker"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/441/441-0.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/441.kindle.noimages"/>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <marcrel:aui rdf:resource="http://www.gutenberg.org/2009/agents/512"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 6th Grader</dcterms:audience>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 7th Grader</dcterms:audience>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/35"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/441/441-0.zip"/>
+    <dcterms:title>New Poems, and Variant Readings</dcterms:title>
+    <dcterms:language rdf:nodeID="A8"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</pgterms:downloads>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/441/441-h.zip">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65444</dcterms:extent>
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-12T13:54:00</dcterms:modified>
+    <dcterms:format rdf:nodeID="A10"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robert_Louis_Stevenson">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value>Love poetry</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Lloyd_Osbourne">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/512">
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Lloyd_Osbourne"/>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1868</pgterms:birthdate>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</pgterms:deathdate>
+    <pgterms:alias>Osborne, Lloyd</pgterms:alias>
+    <pgterms:alias>Osbourne, Samuel Lloyd</pgterms:alias>
+    <pgterms:name>Osbourne, Lloyd</pgterms:name>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/441/441-0.txt">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-12T13:49:16</dcterms:modified>
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153933</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Didactic poetry</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>PR</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/441/441-h/441-h.htm">
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-12T13:49:59</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207997</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/441.plucker">
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-13T11:26:01.492097</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94167</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+    <rdf:value>Text</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/441/441-0.zip">
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/441"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-12T13:54:00</dcterms:modified>
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58913</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+  </rdf:Description>
+</rdf:RDF>

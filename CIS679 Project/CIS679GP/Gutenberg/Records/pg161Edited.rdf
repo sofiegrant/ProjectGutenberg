@@ -1,0 +1,287 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161-h.zip">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-04T14:15:46</dcterms:modified>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259927</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161-pdf.pdf"/>
+    <dcterms:subject rdf:nodeID="A4"/>
+    <dcterms:subject rdf:nodeID="A5"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/68"/>
+    <dcterms:subject rdf:nodeID="A6"/>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161-h.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161-pdf.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.epub.noimages"/>
+    <dcterms:subject rdf:nodeID="A8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.rdf"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.txt.utf-8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.qioo"/>
+    <dcterms:subject rdf:nodeID="A9"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <dcterms:type rdf:nodeID="A11"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.kindle.images"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.plucker"/>
+    <dcterms:subject rdf:nodeID="A12"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.kindle.noimages"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-01</dcterms:issued>
+    <dcterms:subject rdf:nodeID="A13"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161-h/161-h.htm"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4804</pgterms:downloads>
+    <dcterms:subject rdf:nodeID="A14"/>
+    <dcterms:subject rdf:nodeID="A15"/>
+    <dcterms:title>Sense and Sensibility</dcterms:title>
+    <dcterms:language rdf:nodeID="A16"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/161.epub.images"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/161/161.txt"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:subject rdf:nodeID="A17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.kindle.images">
+    <dcterms:format rdf:nodeID="A18"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1150948</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:50.837987</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Social classes -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.txt.utf-8">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:45.308228</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706121</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:format rdf:nodeID="A20"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.rdf">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17188</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:54.622828</dcterms:modified>
+    <dcterms:format rdf:nodeID="A21"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Sisters -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/pdf</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161-pdf.pdf">
+    <dcterms:format rdf:nodeID="A24"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T17:20:28</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1712617</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A25">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A26">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A27">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.epub.noimages">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:46.738178</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272273</dcterms:extent>
+    <dcterms:format rdf:nodeID="A3"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value>Domestic fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161-h/161-h.htm">
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-04T14:14:38</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739965</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Regency fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.epub.images">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:46.373183</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272272</dcterms:extent>
+    <dcterms:format rdf:nodeID="A25"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A28">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161.txt">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:format rdf:nodeID="A26"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-04T14:08:26</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706149</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Mate selection -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>England -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value>England -- Social life and customs -- 19th century -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A29">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.plucker">
+    <dcterms:format rdf:nodeID="A30"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">410727</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-08T13:33:49.504979</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value>Love stories</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jane_Austen">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161-pdf.zip">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T17:23:54</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:format rdf:nodeID="A28"/>
+    <dcterms:format rdf:nodeID="A23"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1309041</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/pdf</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+    <rdf:value>Text</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <rdf:value>Inheritance and succession -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value>PR</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.qioo">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-08T13:33:40.630524</dcterms:modified>
+    <dcterms:format rdf:nodeID="A29"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317961</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <rdf:value>Gentry -- England -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A30">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/68">
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Jane_Austen"/>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1775</pgterms:birthdate>
+    <pgterms:name>Austen, Jane</pgterms:name>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1817</pgterms:deathdate>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Young women -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/161/161.zip">
+    <dcterms:format rdf:nodeID="A27"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-04T14:15:46</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <dcterms:format rdf:nodeID="A19"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255902</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/161.kindle.noimages">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-05T11:26:54.269836</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1150933</dcterms:extent>
+    <dcterms:format rdf:nodeID="A22"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/161"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+</rdf:RDF>

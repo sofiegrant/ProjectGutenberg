@@ -1,0 +1,162 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.plucker">
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:22:03.903023</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801773</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.qioo">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:21:33.752996</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614469</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <dcterms:format rdf:nodeID="A2"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79">
+    <dcterms:subject rdf:nodeID="A3"/>
+    <dcterms:subject rdf:nodeID="A4"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 5th Grader</dcterms:audience>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.html.gen"/>
+    <dcterms:rights>Copyrighted. Read the copyright notice inside this book for details.</dcterms:rights>
+    <dcterms:language rdf:nodeID="A5"/>
+    <dcterms:subject rdf:nodeID="A6"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/79/79.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.epub.noimages"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/79/79.zip"/>
+    <dcterms:title>Terminal Compromise</dcterms:title>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.txt.utf-8"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/57"/>
+    <dcterms:subject rdf:nodeID="A7"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</pgterms:downloads>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.qioo"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-08-01</dcterms:issued>
+    <dcterms:subject rdf:nodeID="A8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.plucker"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/79.kindle.noimages"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 9th Grader</dcterms:audience>
+    <dcterms:type rdf:nodeID="A9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Privacy, Right of -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.txt.utf-8">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:21:28.112993</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <dcterms:format rdf:nodeID="A10"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1353623</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/57">
+    <pgterms:name>Schwartau, Winn</pgterms:name>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Didactic fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/79/79.zip">
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552155</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-23T10:49:04</dcterms:modified>
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value>PQ</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/79/79.txt">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-23T10:34:02</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1353639</dcterms:extent>
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.html.gen">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <dcterms:format rdf:nodeID="A14"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:21:38.182317</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1521691</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+    <rdf:value>Text</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.epub.noimages">
+    <dcterms:format rdf:nodeID="A15"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:21:44.550873</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642862</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Computer security -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/79.kindle.noimages">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/79"/>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-24T03:22:14.726039</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1455146</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>Records -- Access control -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+</rdf:RDF>

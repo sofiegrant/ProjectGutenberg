@@ -1,0 +1,258 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>E201</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>JK</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+    <rdf:value>Text</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when11p.zip">
+    <dcterms:format rdf:nodeID="A6"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-11-15T16:39:52</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10330</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:format rdf:nodeID="A7"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/1/files/15-text.zip">
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:format rdf:nodeID="A10"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584758</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-02T15:15:22</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when12.txt">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24863</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-04-09T14:19:59</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:format rdf:nodeID="A0"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/octet-stream</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when12h.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11140</dcterms:extent>
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-04-09T14:20:00</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1.plucker">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15417</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-03T14:25:15.986241</dcterms:modified>
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1.qioo">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-03T14:25:11.715517</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:format rdf:nodeID="A14"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72539</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when12.zip">
+    <dcterms:format rdf:nodeID="A8"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-04-09T14:19:59</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10608</dcterms:extent>
+    <dcterms:format rdf:nodeID="A15"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Thomas_Jefferson">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mslit-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mslit-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/vnd.palm</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/1638">
+    <pgterms:alias>United States President (1801-1809)</pgterms:alias>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Thomas_Jefferson"/>
+    <pgterms:name>Jefferson, Thomas</pgterms:name>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1826</pgterms:deathdate>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1743</pgterms:birthdate>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1.epub.noimages">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-03T14:25:14.150086</dcterms:modified>
+    <dcterms:format rdf:nodeID="A18"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33463</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1.kindle.noimages">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-03T14:25:17.956274</dcterms:modified>
+    <dcterms:format rdf:nodeID="A21"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44256</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when12h.htm">
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26446</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-04-09T14:20:00</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1">
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when11l.lit"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/1.plucker"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: College</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when12.zip"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/1/files/15-text.zip"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/1638"/>
+    <dcterms:subject rdf:nodeID="A3"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/1.kindle.noimages"/>
+    <dcterms:title>The Declaration of Independence of the United States of America</dcterms:title>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/1.qioo"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/1.txt.utf-8"/>
+    <dcterms:subject rdf:nodeID="A22"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1971-12-01</dcterms:issued>
+    <dcterms:language rdf:nodeID="A16"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when12.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when11p.prc"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when12h.htm"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:subject rdf:nodeID="A2"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</pgterms:downloads>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when11l.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when12h.zip"/>
+    <dcterms:type rdf:nodeID="A4"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/dirs/etext90/when11p.zip"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 9th Grader</dcterms:audience>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject rdf:nodeID="A23"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/1.epub.noimages"/>
+    <dcterms:description>This is the original PG edition.&#xD;
+See also our revised edition: #16780</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <rdf:value>United States. Declaration of Independence</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when11l.lit">
+    <dcterms:format rdf:nodeID="A19"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18023</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-11-15T16:39:51</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when11p.prc">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11420</dcterms:extent>
+    <dcterms:format rdf:nodeID="A20"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-11-15T16:39:52</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>United States -- History -- Revolution, 1775-1783 -- Sources</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/vnd.palm</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/1.txt.utf-8">
+    <dcterms:format rdf:nodeID="A24"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-03T14:25:09.822424</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24833</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/dirs/etext90/when11l.zip">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/1"/>
+    <dcterms:format rdf:nodeID="A17"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-11-15T16:39:51</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9381</dcterms:extent>
+    <dcterms:format rdf:nodeID="A5"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+</rdf:RDF>

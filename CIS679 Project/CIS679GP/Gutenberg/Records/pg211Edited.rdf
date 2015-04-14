@@ -1,0 +1,190 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211.kindle.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406875</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-16T06:29:11.641336</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+    <rdf:value>Text</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211.plucker">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-16T06:29:12.762269</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134959</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <dcterms:format rdf:nodeID="A4"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/211/211.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87036</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <dcterms:format rdf:nodeID="A6"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-15T06:55:06</dcterms:modified>
+    <dcterms:format rdf:nodeID="A7"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Henry_James">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>PS</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211">
+    <dcterms:subject rdf:nodeID="A9"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/211.txt.utf-8"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/211.epub.noimages"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 5th Grader</dcterms:audience>
+    <dcterms:title>The Aspern Papers</dcterms:title>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/211.plucker"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/211/211.zip"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:subject rdf:nodeID="A11"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-06-29</dcterms:issued>
+    <dcterms:subject rdf:nodeID="A12"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/211.kindle.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/211/211-h.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/211/211.txt"/>
+    <dcterms:language rdf:nodeID="A13"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/113"/>
+    <dcterms:type rdf:nodeID="A3"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:subject rdf:nodeID="A8"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</pgterms:downloads>
+    <dcterms:subject rdf:nodeID="A14"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/211.qioo"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/211/211-h/211-h.htm"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Poets -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/211/211.txt">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230598</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-15T06:53:52</dcterms:modified>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/211/211-h/211-h.htm">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260925</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-15T06:54:24</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <dcterms:format rdf:nodeID="A16"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:value>Manuscripts -- Collectors and collecting -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211.qioo">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148909</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-16T06:29:09.798442</dcterms:modified>
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211.txt.utf-8">
+    <dcterms:format rdf:nodeID="A17"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-16T06:29:09.719448</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230570</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value>Man-woman relationships -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value>Psychological fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/211.epub.noimages">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97523</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-16T06:29:10.424408</dcterms:modified>
+    <dcterms:format rdf:nodeID="A18"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/211/211-h.zip">
+    <dcterms:format rdf:nodeID="A15"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-15T06:55:06</dcterms:modified>
+    <dcterms:format rdf:nodeID="A5"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/211"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90759</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Venice (Italy) -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/113">
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Henry_James"/>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1916</pgterms:deathdate>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1843</pgterms:birthdate>
+    <pgterms:name>James, Henry</pgterms:name>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+</rdf:RDF>

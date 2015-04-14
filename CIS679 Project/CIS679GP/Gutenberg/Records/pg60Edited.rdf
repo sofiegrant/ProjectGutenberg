@@ -1,0 +1,197 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/60/60-h.zip">
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-26T12:07:28</dcterms:modified>
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200315</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:value>France -- History -- Revolution, 1789-1799 -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60.epub.noimages">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:38.493580</dcterms:modified>
+    <dcterms:format rdf:nodeID="A5"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210072</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/60/60.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192690</dcterms:extent>
+    <dcterms:format rdf:nodeID="A6"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-11-26T19:30:42</dcterms:modified>
+    <dcterms:format rdf:nodeID="A7"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>PR</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/45">
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1865</pgterms:birthdate>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</pgterms:deathdate>
+    <pgterms:alias>Barstow, Montagu, Mrs.</pgterms:alias>
+    <pgterms:alias>Orczy, Baroness Emmuska</pgterms:alias>
+    <pgterms:name>Orczy, Emmuska Orczy, Baroness</pgterms:name>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Baroness_Orczy"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60.kindle.noimages">
+    <dcterms:format rdf:nodeID="A4"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:41.296546</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">875732</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value>British -- France -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Nobility -- Fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60.plucker">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:44.129524</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306148</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:format rdf:nodeID="A14"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Historical fiction</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60">
+    <dcterms:subject rdf:nodeID="A13"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">758</pgterms:downloads>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/60/60-h/60-h.htm"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 7th Grader</dcterms:audience>
+    <dcterms:title>The Scarlet Pimpernel</dcterms:title>
+    <dcterms:type rdf:nodeID="A15"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/60.epub.noimages"/>
+    <dcterms:language rdf:nodeID="A0"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 10th Grader</dcterms:audience>
+    <dcterms:subject rdf:nodeID="A8"/>
+    <dcterms:subject rdf:nodeID="A16"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/60/60.zip"/>
+    <dcterms:subject rdf:nodeID="A17"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/60.kindle.noimages"/>
+    <dcterms:subject rdf:nodeID="A11"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject rdf:nodeID="A18"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/60/60-h.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/60.qioo"/>
+    <dcterms:subject rdf:nodeID="A3"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/45"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/60.txt.utf-8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/60/60.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/60.plucker"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-03-08</dcterms:issued>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <rdf:value>Blakeney, Percy, Sir (Fictitious character) -- Fiction</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60.txt.utf-8">
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:37.455590</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514335</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/60/60.txt">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-11-26T19:28:18</dcterms:modified>
+    <dcterms:format rdf:nodeID="A19"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514363</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/60.qioo">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:format rdf:nodeID="A10"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-13T05:28:37.616587</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254716</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Adventure stories</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/60/60-h/60-h.htm">
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595204</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/60"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-26T12:07:28</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Baroness_Orczy">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

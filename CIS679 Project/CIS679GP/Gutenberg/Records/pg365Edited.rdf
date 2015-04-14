@@ -1,0 +1,191 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/" > 
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365.qioo">
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T22:25:52.468014</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149585</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/365/365.zip">
+    <dcterms:format rdf:nodeID="A1"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-09-28T07:36:00</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87651</dcterms:extent>
+    <dcterms:format rdf:nodeID="A2"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Natural history -- California</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365.txt.utf-8">
+    <dcterms:format rdf:nodeID="A4"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219499</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T22:25:52.349029</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/365/365-h/365-h.htm">
+    <dcterms:format rdf:nodeID="A5"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243332</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T07:37:00</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>F850.5</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/365/365.txt">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-09-28T07:35:08</dcterms:modified>
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219527</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:value>California -- Social life and customs</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/201">
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1868</pgterms:birthdate>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Mary_Hunter_Austin"/>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1934</pgterms:deathdate>
+    <pgterms:name>Austin, Mary Hunter</pgterms:name>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365.plucker">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T22:25:55.422978</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128858</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Frontier and pioneer life -- California</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365.epub.noimages">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95307</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T22:25:52.923014</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365.kindle.noimages">
+    <dcterms:format rdf:nodeID="A7"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390787</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T22:25:54.380995</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/365/365-h.zip">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90821</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/365"/>
+    <dcterms:format rdf:nodeID="A8"/>
+    <dcterms:format rdf:nodeID="A15"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-30T07:37:00</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>California -- History, Local</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/365">
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/365.epub.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/365/365.txt"/>
+    <dcterms:subject rdf:nodeID="A17"/>
+    <dcterms:type rdf:nodeID="A14"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/365/365-h/365-h.htm"/>
+    <dcterms:language rdf:nodeID="A16"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/365.plucker"/>
+    <dcterms:subject rdf:nodeID="A18"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</pgterms:downloads>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/201"/>
+    <dcterms:subject rdf:nodeID="A12"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/365/365-h.zip"/>
+    <dcterms:subject rdf:nodeID="A10"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 11th Grader</dcterms:audience>
+    <dcterms:tableOfContents>The land of little rain -- Water trails of the Carrizo -- The scavengers -- The pocket hunter -- Shoshone land -- Jimville, a Bret Harte town. -- My neighbor's field -- The Mesa trail -- The basket maker -- The streets of the mountains -- Water borders -- Other water borders -- Nurslings of the sky -- The little town of the grape vines</dcterms:tableOfContents>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/365.txt.utf-8"/>
+    <dcterms:title>The Land of Little Rain</dcterms:title>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-07-09</dcterms:issued>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/365/365.zip"/>
+    <dcterms:subject rdf:nodeID="A6"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/365.kindle.noimages"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/365.qioo"/>
+    <dcterms:subject rdf:nodeID="A3"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>California -- Description and travel</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mary_Hunter_Austin">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+</rdf:RDF>

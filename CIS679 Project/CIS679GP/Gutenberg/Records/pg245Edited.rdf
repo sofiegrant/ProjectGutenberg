@@ -1,0 +1,269 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:nodeID="A0">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Authors, American -- 19th century -- Biography</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/245/245.txt">
+    <dcterms:format rdf:nodeID="A3"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T03:36:20</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">842799</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.rdf">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:format rdf:nodeID="A6"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16550</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:32:24.986008</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:value>Text</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.qioo">
+    <dcterms:format rdf:nodeID="A9"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396423</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-19T12:32:58.454705</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/245/245-h.zip">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T03:38:12</dcterms:modified>
+    <dcterms:format rdf:nodeID="A10"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26610260</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:format rdf:nodeID="A5"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.epub.images">
+    <dcterms:format rdf:nodeID="A11"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:31:51.321479</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24875922</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.kindle.noimages">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:32:24.520034</dcterms:modified>
+    <dcterms:format rdf:nodeID="A0"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1634638</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2/8/8/0/28803/28803-h/files/245/245.txt">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-26T05:02:34</dcterms:modified>
+    <dcterms:format rdf:nodeID="A2"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">842796</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Mississippi River -- Description and travel</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245">
+    <dcterms:type rdf:nodeID="A8"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.epub.images"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.epub.noimages"/>
+    <dcterms:subject rdf:nodeID="A15"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/cache/epub/245/pg245.cover.medium.jpg"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/245/245-h/245-h.htm"/>
+    <dcterms:subject rdf:nodeID="A1"/>
+    <dcterms:license rdf:resource="http://www.gutenberg.org/license"/>
+    <dcterms:title>Life on the Mississippi</dcterms:title>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 3rd Grader</dcterms:audience>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/245/245-h.zip"/>
+    <dcterms:creator rdf:resource="http://www.gutenberg.org/2009/agents/53"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.rdf"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.txt.utf-8"/>
+    <dcterms:subject rdf:nodeID="A16"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.kindle.noimages"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:marc901>http://www.gutenberg.org/files/245/245-h/images/cover.jpg</pgterms:marc901>
+    <pgterms:marc901>file:///public/vhost/g/gutenberg/html/files/245/245-h/images/cover.jpg</pgterms:marc901>
+    <dcterms:audience>Flesh-Kincaid Grade Level: 8th Grader</dcterms:audience>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2572</pgterms:downloads>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.kindle.images"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/245/245.zip"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/cache/epub/245/pg245.cover.small.jpg"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/ebook"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-10</dcterms:issued>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/files/245/245.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.qioo"/>
+    <dcterms:subject rdf:nodeID="A14"/>
+    <dcterms:language rdf:nodeID="A17"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/2/8/8/0/28803/28803-h/files/245/245.txt"/>
+    <dcterms:hasFormat rdf:resource="http://www.gutenberg.org/ebooks/245.plucker"/>
+    <dcterms:subject rdf:nodeID="A18"/>
+    <dcterms:subject rdf:nodeID="A19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/2009/agents/53">
+    <pgterms:name>Twain, Mark</pgterms:name>
+    <pgterms:alias>Twain, Mark (Samuel Clemens)</pgterms:alias>
+    <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Mark_Twain"/>
+    <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</pgterms:deathdate>
+    <pgterms:alias>Clemens, Samuel Langhorne</pgterms:alias>
+    <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1835</pgterms:birthdate>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.txt.utf-8">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">842801</dcterms:extent>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:31:38.836025</dcterms:modified>
+    <dcterms:format rdf:nodeID="A20"/>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Twain, Mark, 1835-1910 -- Travel -- Mississippi River</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.epub.noimages">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:31:51.952460</dcterms:modified>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:format rdf:nodeID="A4"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439086</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+    <rdf:value>Pilots and pilotage -- Mississippi River</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/245/245-h/245-h.htm">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1041322</dcterms:extent>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:format rdf:nodeID="A13"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T03:37:28</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/files/245/245.zip">
+    <dcterms:format rdf:nodeID="A12"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:format rdf:nodeID="A22"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T03:38:10</dcterms:modified>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334417</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.kindle.images">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:32:19.764249</dcterms:modified>
+    <dcterms:format rdf:nodeID="A24"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50475130</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/cache/epub/245/pg245.cover.medium.jpg">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:32:24.837013</dcterms:modified>
+    <dcterms:format rdf:nodeID="A23"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16194</dcterms:extent>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+    <rdf:value>PS</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/ebooks/245.plucker">
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">509647</dcterms:extent>
+    <dcterms:format rdf:nodeID="A21"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-26T17:38:45.152473</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <rdf:type rdf:resource="http://web.resource.org/cc/Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+    <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.gutenberg.org/cache/epub/245/pg245.cover.small.jpg">
+    <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2611</dcterms:extent>
+    <dcterms:format rdf:nodeID="A7"/>
+    <dcterms:isFormatOf rdf:resource="http://www.gutenberg.org/ebooks/245"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-24T23:32:24.676023</dcterms:modified>
+    <rdf:type rdf:resource="http://www.gutenberg.org/2009/pgterms/file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mark_Twain">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <rdf:value>Mississippi River Valley -- Social life and customs -- 19th century</rdf:value>
+    <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+  </rdf:Description>
+</rdf:RDF>

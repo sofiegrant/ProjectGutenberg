@@ -1,0 +1,3000 @@
+Flesh-Kincaid Grade Level:   13.64
+Flesh Reading Ease Score:    45.60
+Sentences:                   20
+Words:                       543
+Averaage Syllables per Word: 1.58
+Average Words per Sentence:  27.15
+Flesh-Kincaid Grade Level:   7.63
+Flesh Reading Ease Score:    66.32
+Sentences:                   25
+Words:                       364
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  14.56
+Flesh-Kincaid Grade Level:   6.75
+Flesh Reading Ease Score:    70.37
+Sentences:                   106
+Words:                       1,412
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  13.32
+Flesh-Kincaid Grade Level:   15.37
+Flesh Reading Ease Score:    37.07
+Sentences:                   46
+Words:                       1,348
+Averaage Syllables per Word: 1.66
+Average Words per Sentence:  29.30
+Flesh-Kincaid Grade Level:   13.22
+Flesh Reading Ease Score:    46.93
+Sentences:                   178
+Words:                       4,662
+Averaage Syllables per Word: 1.58
+Average Words per Sentence:  26.19
+Flesh-Kincaid Grade Level:   9.32
+Flesh Reading Ease Score:    62.89
+Sentences:                   39
+Words:                       758
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  19.44
+Flesh-Kincaid Grade Level:   11.41
+Flesh Reading Ease Score:    52.48
+Sentences:                   12
+Words:                       264
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  22.00
+Flesh-Kincaid Grade Level:   12.55
+Flesh Reading Ease Score:    47.10
+Sentences:                   156
+Words:                       3,681
+Averaage Syllables per Word: 1.60
+Average Words per Sentence:  23.60
+Flesh-Kincaid Grade Level:   6.15
+Flesh Reading Ease Score:    74.95
+Sentences:                   95
+Words:                       1,278
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  13.45
+Flesh-Kincaid Grade Level:   8.33
+Flesh Reading Ease Score:    74.44
+Sentences:                   35,698
+Words:                       784,298
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  21.97
+Flesh-Kincaid Grade Level:   19.59
+Flesh Reading Ease Score:    33.18
+Sentences:                   34
+Words:                       1,500
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  44.12
+Flesh-Kincaid Grade Level:   10.50
+Flesh Reading Ease Score:    66.39
+Sentences:                   191
+Words:                       4,999
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  26.17
+Flesh-Kincaid Grade Level:   9.09
+Flesh Reading Ease Score:    72.18
+Sentences:                   1,106
+Words:                       26,248
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  23.73
+Flesh-Kincaid Grade Level:   8.93
+Flesh Reading Ease Score:    72.86
+Sentences:                   1,235
+Words:                       29,007
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  23.49
+Flesh-Kincaid Grade Level:   14.27
+Flesh Reading Ease Score:    24.28
+Sentences:                   13,320
+Words:                       235,691
+Averaage Syllables per Word: 1.95
+Average Words per Sentence:  17.69
+Flesh-Kincaid Grade Level:   7.10
+Flesh Reading Ease Score:    76.69
+Sentences:                   2,575
+Words:                       47,067
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  18.28
+Flesh-Kincaid Grade Level:   11.27
+Flesh Reading Ease Score:    60.05
+Sentences:                   1,249
+Words:                       32,116
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  25.71
+Flesh-Kincaid Grade Level:   10.90
+Flesh Reading Ease Score:    66.00
+Sentences:                   2,901
+Words:                       79,973
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  27.57
+Flesh-Kincaid Grade Level:   14.29
+Flesh Reading Ease Score:    40.41
+Sentences:                   7,253
+Words:                       194,645
+Averaage Syllables per Word: 1.65
+Average Words per Sentence:  26.84
+Flesh-Kincaid Grade Level:   9.27
+Flesh Reading Ease Score:    70.71
+Sentences:                   11,656
+Words:                       275,423
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  23.63
+Flesh-Kincaid Grade Level:   10.89
+Flesh Reading Ease Score:    64.08
+Sentences:                   1,541
+Words:                       40,716
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  26.42
+Flesh-Kincaid Grade Level:   8.22
+Flesh Reading Ease Score:    68.24
+Sentences:                   2,254
+Words:                       40,643
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  18.03
+Flesh-Kincaid Grade Level:   6.20
+Flesh Reading Ease Score:    78.30
+Sentences:                   3,551
+Words:                       55,234
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  15.55
+Flesh-Kincaid Grade Level:   7.71
+Flesh Reading Ease Score:    46.45
+Sentences:                   52,715
+Words:                       196,740
+Averaage Syllables per Word: 1.85
+Average Words per Sentence:  3.73
+Flesh-Kincaid Grade Level:   15.21
+Flesh Reading Ease Score:    21.63
+Sentences:                   12,901
+Words:                       257,937
+Averaage Syllables per Word: 1.95
+Average Words per Sentence:  19.99
+Flesh-Kincaid Grade Level:   8.07
+Flesh Reading Ease Score:    77.77
+Sentences:                   536
+Words:                       12,213
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  22.79
+Flesh-Kincaid Grade Level:   9.12
+Flesh Reading Ease Score:    67.13
+Sentences:                   6,479
+Words:                       136,166
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  21.02
+Flesh-Kincaid Grade Level:   8.34
+Flesh Reading Ease Score:    69.79
+Sentences:                   4,135
+Words:                       80,227
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  19.40
+Flesh-Kincaid Grade Level:   9.12
+Flesh Reading Ease Score:    67.13
+Sentences:                   6,479
+Words:                       136,166
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  21.02
+Flesh-Kincaid Grade Level:   7.52
+Flesh Reading Ease Score:    76.50
+Sentences:                   39,842
+Words:                       790,063
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  19.83
+Flesh-Kincaid Grade Level:   12.13
+Flesh Reading Ease Score:    44.36
+Sentences:                   1,194
+Words:                       24,313
+Averaage Syllables per Word: 1.68
+Average Words per Sentence:  20.36
+Flesh-Kincaid Grade Level:   4.52
+Flesh Reading Ease Score:    85.02
+Sentences:                   2,860
+Words:                       35,896
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  12.55
+Flesh-Kincaid Grade Level:   8.19
+Flesh Reading Ease Score:    67.49
+Sentences:                   2,970
+Words:                       51,895
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  17.47
+Flesh-Kincaid Grade Level:   7.97
+Flesh Reading Ease Score:    68.39
+Sentences:                   1,883
+Words:                       32,185
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  17.09
+Flesh-Kincaid Grade Level:   11.40
+Flesh Reading Ease Score:    56.05
+Sentences:                   3,478
+Words:                       83,448
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  23.99
+Flesh-Kincaid Grade Level:   2.63
+Flesh Reading Ease Score:    82.43
+Sentences:                   2
+Words:                       7
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  3.50
+Flesh-Kincaid Grade Level:   11.14
+Flesh Reading Ease Score:    51.15
+Sentences:                   365
+Words:                       7,375
+Averaage Syllables per Word: 1.60
+Average Words per Sentence:  20.21
+Flesh-Kincaid Grade Level:   8.99
+Flesh Reading Ease Score:    54.81
+Sentences:                   12,248
+Words:                       166,316
+Averaage Syllables per Word: 1.63
+Average Words per Sentence:  13.58
+Flesh-Kincaid Grade Level:   8.69
+Flesh Reading Ease Score:    66.48
+Sentences:                   3,152
+Words:                       59,690
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  18.94
+Flesh-Kincaid Grade Level:   8.99
+Flesh Reading Ease Score:    54.81
+Sentences:                   12,248
+Words:                       166,316
+Averaage Syllables per Word: 1.63
+Average Words per Sentence:  13.58
+Flesh-Kincaid Grade Level:   11.25
+Flesh Reading Ease Score:    58.28
+Sentences:                   495
+Words:                       12,191
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  24.63
+Flesh-Kincaid Grade Level:   7.49
+Flesh Reading Ease Score:    72.60
+Sentences:                   1,454
+Words:                       25,499
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  17.54
+Flesh-Kincaid Grade Level:   7.45
+Flesh Reading Ease Score:    72.72
+Sentences:                   1,462
+Words:                       25,517
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  17.45
+Flesh-Kincaid Grade Level:   7.00
+Flesh Reading Ease Score:    74.69
+Sentences:                   6,109
+Words:                       102,157
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.72
+Flesh-Kincaid Grade Level:   6.57
+Flesh Reading Ease Score:    76.02
+Sentences:                   9,552
+Words:                       150,582
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  15.76
+Flesh-Kincaid Grade Level:   13.08
+Flesh Reading Ease Score:    38.50
+Sentences:                   417
+Words:                       8,708
+Averaage Syllables per Word: 1.74
+Average Words per Sentence:  20.88
+Flesh-Kincaid Grade Level:   6.45
+Flesh Reading Ease Score:    77.28
+Sentences:                   1,774
+Words:                       28,368
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  15.99
+Flesh-Kincaid Grade Level:   7.58
+Flesh Reading Ease Score:    73.59
+Sentences:                   4,795
+Words:                       88,481
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  18.45
+Flesh-Kincaid Grade Level:   12.11
+Flesh Reading Ease Score:    49.33
+Sentences:                   12
+Words:                       277
+Averaage Syllables per Word: 1.58
+Average Words per Sentence:  23.08
+Flesh-Kincaid Grade Level:   15.68
+Flesh Reading Ease Score:    21.96
+Sentences:                   12,577
+Words:                       277,406
+Averaage Syllables per Word: 1.92
+Average Words per Sentence:  22.06
+Flesh-Kincaid Grade Level:   8.91
+Flesh Reading Ease Score:    67.60
+Sentences:                   2,056
+Words:                       42,064
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  20.46
+Flesh-Kincaid Grade Level:   8.18
+Flesh Reading Ease Score:    75.93
+Sentences:                   1,775
+Words:                       39,405
+Averaage Syllables per Word: 1.28
+Average Words per Sentence:  22.20
+Flesh-Kincaid Grade Level:   15.38
+Flesh Reading Ease Score:    30.31
+Sentences:                   2,401
+Words:                       61,369
+Averaage Syllables per Word: 1.78
+Average Words per Sentence:  25.56
+Flesh-Kincaid Grade Level:   6.50
+Flesh Reading Ease Score:    75.60
+Sentences:                   4,993
+Words:                       76,156
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  15.25
+Flesh-Kincaid Grade Level:   8.71
+Flesh Reading Ease Score:    62.91
+Sentences:                   11
+Words:                       187
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  17.00
+Flesh-Kincaid Grade Level:   13.53
+Flesh Reading Ease Score:    35.28
+Sentences:                   192
+Words:                       4,012
+Averaage Syllables per Word: 1.78
+Average Words per Sentence:  20.90
+Flesh-Kincaid Grade Level:   9.14
+Flesh Reading Ease Score:    70.30
+Sentences:                   230
+Words:                       5,265
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  22.89
+Flesh-Kincaid Grade Level:   20.36
+Flesh Reading Ease Score:    33.03
+Sentences:                   487
+Words:                       22,961
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  47.15
+Flesh-Kincaid Grade Level:   9.86
+Flesh Reading Ease Score:    66.64
+Sentences:                   668
+Words:                       15,860
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  23.74
+Flesh-Kincaid Grade Level:   10.16
+Flesh Reading Ease Score:    62.80
+Sentences:                   3,673
+Words:                       83,660
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  22.78
+Flesh-Kincaid Grade Level:   11.61
+Flesh Reading Ease Score:    51.72
+Sentences:                   1,376
+Words:                       30,806
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  22.39
+Flesh-Kincaid Grade Level:   18.08
+Flesh Reading Ease Score:    34.93
+Sentences:                   1
+Words:                       39
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  39.00
+Flesh-Kincaid Grade Level:   11.67
+Flesh Reading Ease Score:    60.93
+Sentences:                   2,046
+Words:                       56,867
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  27.79
+Flesh-Kincaid Grade Level:   12.10
+Flesh Reading Ease Score:    43.77
+Sentences:                   3,862
+Words:                       76,847
+Averaage Syllables per Word: 1.69
+Average Words per Sentence:  19.90
+Flesh-Kincaid Grade Level:   7.14
+Flesh Reading Ease Score:    69.64
+Sentences:                   6,491
+Words:                       93,905
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  14.47
+Flesh-Kincaid Grade Level:   18.08
+Flesh Reading Ease Score:    34.93
+Sentences:                   1
+Words:                       39
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  39.00
+Flesh-Kincaid Grade Level:   11.61
+Flesh Reading Ease Score:    51.72
+Sentences:                   1,376
+Words:                       30,806
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  22.39
+Flesh-Kincaid Grade Level:   11.67
+Flesh Reading Ease Score:    60.93
+Sentences:                   2,046
+Words:                       56,867
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  27.79
+Flesh-Kincaid Grade Level:   12.10
+Flesh Reading Ease Score:    43.77
+Sentences:                   3,862
+Words:                       76,847
+Averaage Syllables per Word: 1.69
+Average Words per Sentence:  19.90
+Flesh-Kincaid Grade Level:   7.14
+Flesh Reading Ease Score:    69.64
+Sentences:                   6,491
+Words:                       93,905
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  14.47
+Flesh-Kincaid Grade Level:   9.75
+Flesh Reading Ease Score:    63.33
+Sentences:                   435
+Words:                       9,325
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  21.44
+Flesh-Kincaid Grade Level:   10.84
+Flesh Reading Ease Score:    52.61
+Sentences:                   999
+Words:                       19,778
+Averaage Syllables per Word: 1.59
+Average Words per Sentence:  19.80
+Flesh-Kincaid Grade Level:   7.96
+Flesh Reading Ease Score:    69.61
+Sentences:                   2,639
+Words:                       46,854
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  17.75
+Flesh-Kincaid Grade Level:   6.54
+Flesh Reading Ease Score:    73.41
+Sentences:                   3,235
+Words:                       45,832
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  14.17
+Flesh-Kincaid Grade Level:   6.89
+Flesh Reading Ease Score:    75.23
+Sentences:                   4,232
+Words:                       70,268
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.60
+Flesh-Kincaid Grade Level:   10.94
+Flesh Reading Ease Score:    56.67
+Sentences:                   4,659
+Words:                       104,714
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  22.48
+Flesh-Kincaid Grade Level:   9.74
+Flesh Reading Ease Score:    64.82
+Sentences:                   3,826
+Words:                       84,982
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  22.21
+Flesh-Kincaid Grade Level:   10.43
+Flesh Reading Ease Score:    49.79
+Sentences:                   5,217
+Words:                       86,512
+Averaage Syllables per Word: 1.66
+Average Words per Sentence:  16.58
+Flesh-Kincaid Grade Level:   5.90
+Flesh Reading Ease Score:    84.67
+Sentences:                   6,226
+Words:                       111,581
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  17.92
+Flesh-Kincaid Grade Level:   6.98
+Flesh Reading Ease Score:    68.53
+Sentences:                   16,040
+Words:                       211,966
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  13.21
+Flesh-Kincaid Grade Level:   9.05
+Flesh Reading Ease Score:    67.17
+Sentences:                   4,279
+Words:                       88,852
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  20.76
+Flesh-Kincaid Grade Level:   10.91
+Flesh Reading Ease Score:    62.23
+Sentences:                   2,479
+Words:                       63,170
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  25.48
+Flesh-Kincaid Grade Level:   9.09
+Flesh Reading Ease Score:    63.18
+Sentences:                   4,000
+Words:                       74,782
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  18.70
+Flesh-Kincaid Grade Level:   9.71
+Flesh Reading Ease Score:    57.63
+Sentences:                   5,034
+Words:                       90,924
+Averaage Syllables per Word: 1.55
+Average Words per Sentence:  18.06
+Flesh-Kincaid Grade Level:   14.21
+Flesh Reading Ease Score:    50.88
+Sentences:                   5,881
+Words:                       190,622
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  32.41
+Flesh-Kincaid Grade Level:   21.23
+Flesh Reading Ease Score:    40.61
+Sentences:                   31
+Words:                       1,702
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  54.90
+Flesh-Kincaid Grade Level:   7.83
+Flesh Reading Ease Score:    70.47
+Sentences:                   5,321
+Words:                       94,239
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  17.71
+Flesh-Kincaid Grade Level:   7.65
+Flesh Reading Ease Score:    72.84
+Sentences:                   6,397
+Words:                       117,237
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  18.33
+Flesh-Kincaid Grade Level:   18.30
+Flesh Reading Ease Score:    14.56
+Sentences:                   10,387
+Words:                       295,492
+Averaage Syllables per Word: 1.93
+Average Words per Sentence:  28.45
+Flesh-Kincaid Grade Level:   19.88
+Flesh Reading Ease Score:    21.62
+Sentences:                   7,308
+Words:                       283,423
+Averaage Syllables per Word: 1.72
+Average Words per Sentence:  38.78
+Flesh-Kincaid Grade Level:   7.63
+Flesh Reading Ease Score:    79.23
+Sentences:                   1,535
+Words:                       33,511
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  21.83
+Flesh-Kincaid Grade Level:   7.38
+Flesh Reading Ease Score:    78.46
+Sentences:                   1,130
+Words:                       23,037
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  20.39
+Flesh-Kincaid Grade Level:   6.79
+Flesh Reading Ease Score:    75.01
+Sentences:                   1,776
+Words:                       28,528
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  16.06
+Flesh-Kincaid Grade Level:   9.82
+Flesh Reading Ease Score:    63.02
+Sentences:                   3,051
+Words:                       65,739
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  21.55
+Flesh-Kincaid Grade Level:   6.23
+Flesh Reading Ease Score:    79.57
+Sentences:                   3,259
+Words:                       53,409
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  16.39
+Flesh-Kincaid Grade Level:   14.27
+Flesh Reading Ease Score:    38.19
+Sentences:                   32
+Words:                       816
+Averaage Syllables per Word: 1.69
+Average Words per Sentence:  25.50
+Flesh-Kincaid Grade Level:   11.39
+Flesh Reading Ease Score:    56.67
+Sentences:                   334
+Words:                       8,111
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  24.28
+Flesh-Kincaid Grade Level:   10.76
+Flesh Reading Ease Score:    62.29
+Sentences:                   2,306
+Words:                       57,416
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  24.90
+Flesh-Kincaid Grade Level:   11.06
+Flesh Reading Ease Score:    55.33
+Sentences:                   1,506
+Words:                       33,463
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  22.22
+Flesh-Kincaid Grade Level:   8.84
+Flesh Reading Ease Score:    68.31
+Sentences:                   6,570
+Words:                       135,168
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  20.57
+Flesh-Kincaid Grade Level:   10.70
+Flesh Reading Ease Score:    52.99
+Sentences:                   98
+Words:                       1,908
+Averaage Syllables per Word: 1.58
+Average Words per Sentence:  19.47
+Flesh-Kincaid Grade Level:   8.61
+Flesh Reading Ease Score:    69.81
+Sentences:                   2,583
+Words:                       52,872
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  20.47
+Flesh-Kincaid Grade Level:   10.56
+Flesh Reading Ease Score:    49.80
+Sentences:                   5,935
+Words:                       101,443
+Averaage Syllables per Word: 1.65
+Average Words per Sentence:  17.09
+Flesh-Kincaid Grade Level:   8.79
+Flesh Reading Ease Score:    66.14
+Sentences:                   4,335
+Words:                       83,054
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  19.16
+Flesh-Kincaid Grade Level:   9.04
+Flesh Reading Ease Score:    63.45
+Sentences:                   3,372
+Words:                       62,915
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  18.66
+Flesh-Kincaid Grade Level:   5.93
+Flesh Reading Ease Score:    83.67
+Sentences:                   383
+Words:                       6,690
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  17.47
+Flesh-Kincaid Grade Level:   8.97
+Flesh Reading Ease Score:    66.71
+Sentences:                   3,662
+Words:                       73,937
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  20.19
+Flesh-Kincaid Grade Level:   8.03
+Flesh Reading Ease Score:    71.51
+Sentences:                   5,844
+Words:                       111,627
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  19.10
+Flesh-Kincaid Grade Level:   9.09
+Flesh Reading Ease Score:    66.18
+Sentences:                   6,688
+Words:                       136,230
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  20.37
+Flesh-Kincaid Grade Level:   8.80
+Flesh Reading Ease Score:    67.55
+Sentences:                   7,404
+Words:                       147,860
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  19.97
+Flesh-Kincaid Grade Level:   14.49
+Flesh Reading Ease Score:    31.25
+Sentences:                   24
+Words:                       540
+Averaage Syllables per Word: 1.81
+Average Words per Sentence:  22.50
+Flesh-Kincaid Grade Level:   8.01
+Flesh Reading Ease Score:    68.34
+Sentences:                   1,175
+Words:                       20,249
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  17.23
+Flesh-Kincaid Grade Level:   6.46
+Flesh Reading Ease Score:    78.44
+Sentences:                   4,893
+Words:                       81,583
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  16.67
+Flesh-Kincaid Grade Level:   6.51
+Flesh Reading Ease Score:    79.41
+Sentences:                   4,609
+Words:                       80,305
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  17.42
+Flesh-Kincaid Grade Level:   633.09
+Flesh Reading Ease Score:    0.00
+Sentences:                   32
+Words:                       52,239
+Averaage Syllables per Word: 1.02
+Average Words per Sentence:  1632.47
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   13.34
+Flesh Reading Ease Score:    38.18
+Sentences:                   34
+Words:                       740
+Averaage Syllables per Word: 1.73
+Average Words per Sentence:  21.76
+Flesh-Kincaid Grade Level:   9.75
+Flesh Reading Ease Score:    57.40
+Sentences:                   3,215
+Words:                       58,209
+Averaage Syllables per Word: 1.55
+Average Words per Sentence:  18.11
+Flesh-Kincaid Grade Level:   6.89
+Flesh Reading Ease Score:    78.62
+Sentences:                   3,672
+Words:                       67,994
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  18.52
+Flesh-Kincaid Grade Level:   8.90
+Flesh Reading Ease Score:    66.03
+Sentences:                   7,988
+Words:                       155,952
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  19.52
+Flesh-Kincaid Grade Level:   9.16
+Flesh Reading Ease Score:    64.38
+Sentences:                   3,915
+Words:                       76,900
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  19.64
+Flesh-Kincaid Grade Level:   10.33
+Flesh Reading Ease Score:    64.16
+Sentences:                   2,034
+Words:                       49,312
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  24.24
+Flesh-Kincaid Grade Level:   8.16
+Flesh Reading Ease Score:    70.88
+Sentences:                   7,316
+Words:                       140,990
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  19.27
+Flesh-Kincaid Grade Level:   10.44
+Flesh Reading Ease Score:    66.86
+Sentences:                   5,369
+Words:                       140,652
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  26.20
+Flesh-Kincaid Grade Level:   5.79
+Flesh Reading Ease Score:    80.19
+Sentences:                   7,977
+Words:                       119,334
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  14.96
+Flesh-Kincaid Grade Level:   9.02
+Flesh Reading Ease Score:    66.42
+Sentences:                   1,437
+Words:                       29,064
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  20.23
+Flesh-Kincaid Grade Level:   13.74
+Flesh Reading Ease Score:    38.12
+Sentences:                   3
+Words:                       70
+Averaage Syllables per Word: 1.71
+Average Words per Sentence:  23.33
+Flesh-Kincaid Grade Level:   11.63
+Flesh Reading Ease Score:    63.70
+Sentences:                   3,809
+Words:                       111,234
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  29.20
+Flesh-Kincaid Grade Level:   8.43
+Flesh Reading Ease Score:    64.93
+Sentences:                   3,741
+Words:                       63,686
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  17.02
+Flesh-Kincaid Grade Level:   10.29
+Flesh Reading Ease Score:    52.00
+Sentences:                   4
+Words:                       69
+Averaage Syllables per Word: 1.62
+Average Words per Sentence:  17.25
+Flesh-Kincaid Grade Level:   4.97
+Flesh Reading Ease Score:    84.70
+Sentences:                   4,017
+Words:                       57,062
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  14.21
+Flesh-Kincaid Grade Level:   11.34
+Flesh Reading Ease Score:    55.09
+Sentences:                   1,935
+Words:                       44,926
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  23.22
+Flesh-Kincaid Grade Level:   9.70
+Flesh Reading Ease Score:    61.74
+Sentences:                   2,624
+Words:                       53,384
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  20.34
+Flesh-Kincaid Grade Level:   9.12
+Flesh Reading Ease Score:    65.17
+Sentences:                   5,910
+Words:                       117,844
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  19.94
+Flesh-Kincaid Grade Level:   7.69
+Flesh Reading Ease Score:    68.28
+Sentences:                   35,330
+Words:                       562,394
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  15.92
+Flesh-Kincaid Grade Level:   6.55
+Flesh Reading Ease Score:    81.47
+Sentences:                   434
+Words:                       8,123
+Averaage Syllables per Word: 1.26
+Average Words per Sentence:  18.72
+Flesh-Kincaid Grade Level:   7.39
+Flesh Reading Ease Score:    75.63
+Sentences:                   877
+Words:                       16,525
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  18.84
+Flesh-Kincaid Grade Level:   9.06
+Flesh Reading Ease Score:    66.78
+Sentences:                   3,668
+Words:                       75,543
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  20.60
+Flesh-Kincaid Grade Level:   8.38
+Flesh Reading Ease Score:    71.25
+Sentences:                   7,310
+Words:                       148,775
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  20.35
+Flesh-Kincaid Grade Level:   9.18
+Flesh Reading Ease Score:    63.43
+Sentences:                   3,537
+Words:                       67,865
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  19.19
+Flesh-Kincaid Grade Level:   7.95
+Flesh Reading Ease Score:    69.37
+Sentences:                   5,346
+Words:                       93,952
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  17.57
+Flesh-Kincaid Grade Level:   8.96
+Flesh Reading Ease Score:    66.38
+Sentences:                   7,969
+Words:                       159,080
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  19.96
+Flesh-Kincaid Grade Level:   8.76
+Flesh Reading Ease Score:    66.90
+Sentences:                   5,890
+Words:                       114,675
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  19.47
+Flesh-Kincaid Grade Level:   7.93
+Flesh Reading Ease Score:    70.28
+Sentences:                   7,526
+Words:                       135,504
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  18.00
+Flesh-Kincaid Grade Level:   10.51
+Flesh Reading Ease Score:    61.31
+Sentences:                   13,495
+Words:                       315,479
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  23.38
+Flesh-Kincaid Grade Level:   11.39
+Flesh Reading Ease Score:    55.34
+Sentences:                   914
+Words:                       21,538
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  23.56
+Flesh-Kincaid Grade Level:   9.80
+Flesh Reading Ease Score:    63.80
+Sentences:                   1,720
+Words:                       37,645
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  21.89
+Flesh-Kincaid Grade Level:   11.11
+Flesh Reading Ease Score:    58.25
+Sentences:                   2,747
+Words:                       66,092
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  24.06
+Flesh-Kincaid Grade Level:   6.95
+Flesh Reading Ease Score:    75.71
+Sentences:                   3,856
+Words:                       66,032
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  17.12
+Flesh-Kincaid Grade Level:   8.89
+Flesh Reading Ease Score:    67.21
+Sentences:                   6,100
+Words:                       122,810
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  20.13
+Flesh-Kincaid Grade Level:   4.00
+Flesh Reading Ease Score:    90.18
+Sentences:                   289
+Words:                       3,856
+Averaage Syllables per Word: 1.22
+Average Words per Sentence:  13.34
+Flesh-Kincaid Grade Level:   9.05
+Flesh Reading Ease Score:    61.12
+Sentences:                   3,392
+Words:                       58,917
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  17.37
+Flesh-Kincaid Grade Level:   8.45
+Flesh Reading Ease Score:    69.35
+Sentences:                   7,315
+Words:                       143,155
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  19.57
+Flesh-Kincaid Grade Level:   7.02
+Flesh Reading Ease Score:    76.48
+Sentences:                   7,184
+Words:                       127,918
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  17.81
+Flesh-Kincaid Grade Level:   8.05
+Flesh Reading Ease Score:    69.75
+Sentences:                   10,664
+Words:                       193,916
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  18.18
+Flesh-Kincaid Grade Level:   13.34
+Flesh Reading Ease Score:    38.18
+Sentences:                   34
+Words:                       740
+Averaage Syllables per Word: 1.73
+Average Words per Sentence:  21.76
+Flesh-Kincaid Grade Level:   6.26
+Flesh Reading Ease Score:    75.08
+Sentences:                   2,630
+Words:                       36,781
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  13.99
+Flesh-Kincaid Grade Level:   7.11
+Flesh Reading Ease Score:    71.22
+Sentences:                   4,188
+Words:                       63,716
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  15.21
+Flesh-Kincaid Grade Level:   7.06
+Flesh Reading Ease Score:    72.03
+Sentences:                   2,796
+Words:                       43,304
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  15.49
+Flesh-Kincaid Grade Level:   8.77
+Flesh Reading Ease Score:    66.38
+Sentences:                   8,179
+Words:                       156,901
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  19.18
+Flesh-Kincaid Grade Level:   8.33
+Flesh Reading Ease Score:    63.62
+Sentences:                   3,919
+Words:                       62,279
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  15.89
+Flesh-Kincaid Grade Level:   10.62
+Flesh Reading Ease Score:    59.80
+Sentences:                   5,150
+Words:                       118,194
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  22.95
+Flesh-Kincaid Grade Level:   8.15
+Flesh Reading Ease Score:    66.36
+Sentences:                   6,128
+Words:                       102,368
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  16.70
+Flesh-Kincaid Grade Level:   8.95
+Flesh Reading Ease Score:    73.13
+Sentences:                   1,436
+Words:                       34,051
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  23.71
+Flesh-Kincaid Grade Level:   6.53
+Flesh Reading Ease Score:    74.58
+Sentences:                   7,589
+Words:                       112,085
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  14.77
+Flesh-Kincaid Grade Level:   8.49
+Flesh Reading Ease Score:    70.87
+Sentences:                   2,770
+Words:                       57,071
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  20.60
+Flesh-Kincaid Grade Level:   11.68
+Flesh Reading Ease Score:    51.07
+Sentences:                   1,925
+Words:                       42,935
+Averaage Syllables per Word: 1.57
+Average Words per Sentence:  22.30
+Flesh-Kincaid Grade Level:   11.45
+Flesh Reading Ease Score:    51.55
+Sentences:                   1,685
+Words:                       36,477
+Averaage Syllables per Word: 1.58
+Average Words per Sentence:  21.65
+Flesh-Kincaid Grade Level:   8.04
+Flesh Reading Ease Score:    66.91
+Sentences:                   3,737
+Words:                       61,864
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  16.55
+Flesh-Kincaid Grade Level:   10.39
+Flesh Reading Ease Score:    73.24
+Sentences:                   7,603
+Words:                       224,759
+Averaage Syllables per Word: 1.22
+Average Words per Sentence:  29.56
+Flesh-Kincaid Grade Level:   6.93
+Flesh Reading Ease Score:    71.63
+Sentences:                   3,997
+Words:                       58,907
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  14.74
+Flesh-Kincaid Grade Level:   7.70
+Flesh Reading Ease Score:    69.88
+Sentences:                   4,478
+Words:                       75,441
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.85
+Flesh-Kincaid Grade Level:   8.14
+Flesh Reading Ease Score:    67.67
+Sentences:                   7,554
+Words:                       131,331
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  17.39
+Flesh-Kincaid Grade Level:   7.04
+Flesh Reading Ease Score:    72.58
+Sentences:                   8,492
+Words:                       133,318
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  15.70
+Flesh-Kincaid Grade Level:   18.92
+Flesh Reading Ease Score:    12.75
+Sentences:                   10,457
+Words:                       313,254
+Averaage Syllables per Word: 1.93
+Average Words per Sentence:  29.96
+Flesh-Kincaid Grade Level:   7.70
+Flesh Reading Ease Score:    69.88
+Sentences:                   4,478
+Words:                       75,441
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.85
+Flesh-Kincaid Grade Level:   6.93
+Flesh Reading Ease Score:    71.63
+Sentences:                   3,997
+Words:                       58,907
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  14.74
+Flesh-Kincaid Grade Level:   8.14
+Flesh Reading Ease Score:    67.67
+Sentences:                   7,554
+Words:                       131,331
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  17.39
+Flesh-Kincaid Grade Level:   7.04
+Flesh Reading Ease Score:    72.58
+Sentences:                   8,492
+Words:                       133,318
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  15.70
+Flesh-Kincaid Grade Level:   18.92
+Flesh Reading Ease Score:    12.75
+Sentences:                   10,457
+Words:                       313,254
+Averaage Syllables per Word: 1.93
+Average Words per Sentence:  29.96
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   0
+Flesh Reading Ease Score:    0
+Sentences:                   0
+Words:                       0
+Averaage Syllables per Word: 0
+Average Words per Sentence:  0.00
+Flesh-Kincaid Grade Level:   11.07
+Flesh Reading Ease Score:    49.47
+Sentences:                   69,253
+Words:                       1,313,206
+Averaage Syllables per Word: 1.63
+Average Words per Sentence:  18.96
+Flesh-Kincaid Grade Level:   10.87
+Flesh Reading Ease Score:    55.86
+Sentences:                   1,565
+Words:                       34,004
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  21.73
+Flesh-Kincaid Grade Level:   9.82
+Flesh Reading Ease Score:    61.25
+Sentences:                   6,525
+Words:                       134,103
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  20.55
+Flesh-Kincaid Grade Level:   8.16
+Flesh Reading Ease Score:    69.86
+Sentences:                   4,206
+Words:                       78,631
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  18.69
+Flesh-Kincaid Grade Level:   10.22
+Flesh Reading Ease Score:    64.12
+Sentences:                   4,860
+Words:                       115,441
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  23.75
+Flesh-Kincaid Grade Level:   7.76
+Flesh Reading Ease Score:    72.43
+Sentences:                   9,691
+Words:                       179,639
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  18.54
+Flesh-Kincaid Grade Level:   5.60
+Flesh Reading Ease Score:    84.79
+Sentences:                   788
+Words:                       13,233
+Averaage Syllables per Word: 1.24
+Average Words per Sentence:  16.79
+Flesh-Kincaid Grade Level:   7.96
+Flesh Reading Ease Score:    68.56
+Sentences:                   1,559
+Words:                       26,778
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  17.18
+Flesh-Kincaid Grade Level:   8.61
+Flesh Reading Ease Score:    70.49
+Sentences:                   2,020
+Words:                       42,114
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  20.85
+Flesh-Kincaid Grade Level:   7.36
+Flesh Reading Ease Score:    69.04
+Sentences:                   1,412
+Words:                       21,199
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  15.01
+Flesh-Kincaid Grade Level:   11.12
+Flesh Reading Ease Score:    58.55
+Sentences:                   5,721
+Words:                       138,723
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  24.25
+Flesh-Kincaid Grade Level:   8.94
+Flesh Reading Ease Score:    69.30
+Sentences:                   1,798
+Words:                       38,706
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  21.53
+Flesh-Kincaid Grade Level:   8.98
+Flesh Reading Ease Score:    74.38
+Sentences:                   967
+Words:                       23,707
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  24.52
+Flesh-Kincaid Grade Level:   8.12
+Flesh Reading Ease Score:    76.42
+Sentences:                   1,256
+Words:                       27,888
+Averaage Syllables per Word: 1.28
+Average Words per Sentence:  22.20
+Flesh-Kincaid Grade Level:   7.50
+Flesh Reading Ease Score:    73.44
+Sentences:                   1,758
+Words:                       31,760
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  18.07
+Flesh-Kincaid Grade Level:   124.44
+Flesh Reading Ease Score:    0.00
+Sentences:                   125
+Words:                       41,089
+Averaage Syllables per Word: 1.00
+Average Words per Sentence:  328.71
+Flesh-Kincaid Grade Level:   5.31
+Flesh Reading Ease Score:    78.82
+Sentences:                   863
+Words:                       10,569
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  12.25
+Flesh-Kincaid Grade Level:   6.80
+Flesh Reading Ease Score:    75.19
+Sentences:                   1,017
+Words:                       16,482
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.21
+Flesh-Kincaid Grade Level:   18.50
+Flesh Reading Ease Score:    0.00
+Sentences:                   975
+Words:                       20,483
+Averaage Syllables per Word: 2.19
+Average Words per Sentence:  21.01
+Flesh-Kincaid Grade Level:   7.28
+Flesh Reading Ease Score:    71.26
+Sentences:                   2,372
+Words:                       37,857
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  15.96
+Flesh-Kincaid Grade Level:   4.69
+Flesh Reading Ease Score:    82.80
+Sentences:                   13,260
+Words:                       159,159
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  12.00
+Flesh-Kincaid Grade Level:   8.71
+Flesh Reading Ease Score:    67.86
+Sentences:                   3,609
+Words:                       71,419
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  19.79
+Flesh-Kincaid Grade Level:   7.75
+Flesh Reading Ease Score:    72.25
+Sentences:                   6,090
+Words:                       111,929
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  18.38
+Flesh-Kincaid Grade Level:   6.69
+Flesh Reading Ease Score:    75.51
+Sentences:                   4,675
+Words:                       74,664
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  15.97
+Flesh-Kincaid Grade Level:   6.23
+Flesh Reading Ease Score:    82.39
+Sentences:                   4,905
+Words:                       88,103
+Averaage Syllables per Word: 1.26
+Average Words per Sentence:  17.96
+Flesh-Kincaid Grade Level:   8.41
+Flesh Reading Ease Score:    68.01
+Sentences:                   6,936
+Words:                       129,518
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  18.67
+Flesh-Kincaid Grade Level:   12.41
+Flesh Reading Ease Score:    28.16
+Sentences:                   462
+Words:                       5,724
+Averaage Syllables per Word: 1.96
+Average Words per Sentence:  12.39
+Flesh-Kincaid Grade Level:   15.89
+Flesh Reading Ease Score:    12.96
+Sentences:                   738
+Words:                       13,194
+Averaage Syllables per Word: 2.08
+Average Words per Sentence:  17.88
+Flesh-Kincaid Grade Level:   8.02
+Flesh Reading Ease Score:    74.68
+Sentences:                   395
+Words:                       8,227
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  20.83
+Flesh-Kincaid Grade Level:   15.23
+Flesh Reading Ease Score:    15.48
+Sentences:                   3,827
+Words:                       63,703
+Averaage Syllables per Word: 2.06
+Average Words per Sentence:  16.65
+Flesh-Kincaid Grade Level:   6.32
+Flesh Reading Ease Score:    79.41
+Sentences:                   6,397
+Words:                       106,429
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  16.64
+Flesh-Kincaid Grade Level:   7.56
+Flesh Reading Ease Score:    66.05
+Sentences:                   174
+Words:                       2,462
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  14.15
+Flesh-Kincaid Grade Level:   9.34
+Flesh Reading Ease Score:    69.66
+Sentences:                   908
+Words:                       21,171
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  23.32
+Flesh-Kincaid Grade Level:   15.49
+Flesh Reading Ease Score:    15.51
+Sentences:                   802
+Words:                       14,181
+Averaage Syllables per Word: 2.05
+Average Words per Sentence:  17.68
+Flesh-Kincaid Grade Level:   9.68
+Flesh Reading Ease Score:    74.37
+Sentences:                   1,779
+Words:                       48,645
+Averaage Syllables per Word: 1.24
+Average Words per Sentence:  27.34
+Flesh-Kincaid Grade Level:   6.57
+Flesh Reading Ease Score:    74.60
+Sentences:                   10,370
+Words:                       155,068
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  14.95
+Flesh-Kincaid Grade Level:   14.45
+Flesh Reading Ease Score:    31.48
+Sentences:                   24
+Words:                       539
+Averaage Syllables per Word: 1.80
+Average Words per Sentence:  22.46
+Flesh-Kincaid Grade Level:   13.09
+Flesh Reading Ease Score:    27.83
+Sentences:                   294
+Words:                       4,391
+Averaage Syllables per Word: 1.94
+Average Words per Sentence:  14.94
+Flesh-Kincaid Grade Level:   10.19
+Flesh Reading Ease Score:    63.67
+Sentences:                   1,192
+Words:                       27,888
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  23.40
+Flesh-Kincaid Grade Level:   7.24
+Flesh Reading Ease Score:    77.96
+Sentences:                   2,592
+Words:                       50,685
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  19.55
+Flesh-Kincaid Grade Level:   7.54
+Flesh Reading Ease Score:    70.21
+Sentences:                   4,042
+Words:                       66,221
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.38
+Flesh-Kincaid Grade Level:   8.65
+Flesh Reading Ease Score:    66.94
+Sentences:                   3,018
+Words:                       57,375
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  19.01
+Flesh-Kincaid Grade Level:   10.15
+Flesh Reading Ease Score:    62.90
+Sentences:                   1,992
+Words:                       45,398
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  22.79
+Flesh-Kincaid Grade Level:   8.47
+Flesh Reading Ease Score:    68.82
+Sentences:                   2,254
+Words:                       43,640
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  19.36
+Flesh-Kincaid Grade Level:   7.11
+Flesh Reading Ease Score:    75.13
+Sentences:                   4,646
+Words:                       81,052
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  17.45
+Flesh-Kincaid Grade Level:   8.38
+Flesh Reading Ease Score:    68.01
+Sentences:                   7,748
+Words:                       143,732
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  18.55
+Flesh-Kincaid Grade Level:   17.10
+Flesh Reading Ease Score:    22.14
+Sentences:                   9
+Words:                       251
+Averaage Syllables per Word: 1.85
+Average Words per Sentence:  27.89
+Flesh-Kincaid Grade Level:   9.83
+Flesh Reading Ease Score:    64.04
+Sentences:                   518
+Words:                       11,465
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  22.13
+Flesh-Kincaid Grade Level:   14.75
+Flesh Reading Ease Score:    46.24
+Sentences:                   502
+Words:                       16,042
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  31.96
+Flesh-Kincaid Grade Level:   4.47
+Flesh Reading Ease Score:    72.39
+Sentences:                   47,318
+Words:                       248,635
+Averaage Syllables per Word: 1.53
+Average Words per Sentence:  5.25
+Flesh-Kincaid Grade Level:   3.46
+Flesh Reading Ease Score:    80.12
+Sentences:                   46,638
+Words:                       257,424
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  5.52
+Flesh-Kincaid Grade Level:   7.29
+Flesh Reading Ease Score:    67.58
+Sentences:                   259
+Words:                       3,605
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  13.92
+Flesh-Kincaid Grade Level:   19.62
+Flesh Reading Ease Score:    20.69
+Sentences:                   829
+Words:                       30,860
+Averaage Syllables per Word: 1.75
+Average Words per Sentence:  37.23
+Flesh-Kincaid Grade Level:   18.10
+Flesh Reading Ease Score:    25.30
+Sentences:                   239
+Words:                       8,050
+Averaage Syllables per Word: 1.74
+Average Words per Sentence:  33.68
+Flesh-Kincaid Grade Level:   6.61
+Flesh Reading Ease Score:    75.78
+Sentences:                   390
+Words:                       6,148
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  15.76
+Flesh-Kincaid Grade Level:   19.62
+Flesh Reading Ease Score:    20.69
+Sentences:                   829
+Words:                       30,860
+Averaage Syllables per Word: 1.75
+Average Words per Sentence:  37.23
+Flesh-Kincaid Grade Level:   14.45
+Flesh Reading Ease Score:    31.48
+Sentences:                   24
+Words:                       539
+Averaage Syllables per Word: 1.80
+Average Words per Sentence:  22.46
+Flesh-Kincaid Grade Level:   4.99
+Flesh Reading Ease Score:    85.03
+Sentences:                   1,307
+Words:                       18,893
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  14.46
+Flesh-Kincaid Grade Level:   6.82
+Flesh Reading Ease Score:    82.88
+Sentences:                   3,266
+Words:                       67,340
+Averaage Syllables per Word: 1.22
+Average Words per Sentence:  20.62
+Flesh-Kincaid Grade Level:   5.72
+Flesh Reading Ease Score:    82.02
+Sentences:                   3,860
+Words:                       60,639
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  15.71
+Flesh-Kincaid Grade Level:   8.44
+Flesh Reading Ease Score:    68.56
+Sentences:                   5,691
+Words:                       108,654
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  19.09
+Flesh-Kincaid Grade Level:   5.92
+Flesh Reading Ease Score:    81.86
+Sentences:                   379
+Words:                       6,220
+Averaage Syllables per Word: 1.28
+Average Words per Sentence:  16.41
+Flesh-Kincaid Grade Level:   8.19
+Flesh Reading Ease Score:    75.13
+Sentences:                   327
+Words:                       7,125
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  21.79
+Flesh-Kincaid Grade Level:   7.75
+Flesh Reading Ease Score:    72.50
+Sentences:                   702
+Words:                       12,996
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  18.51
+Flesh-Kincaid Grade Level:   6.57
+Flesh Reading Ease Score:    77.13
+Sentences:                   1,511
+Words:                       24,775
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  16.40
+Flesh-Kincaid Grade Level:   6.77
+Flesh Reading Ease Score:    80.92
+Sentences:                   928
+Words:                       17,935
+Averaage Syllables per Word: 1.26
+Average Words per Sentence:  19.33
+Flesh-Kincaid Grade Level:   8.81
+Flesh Reading Ease Score:    64.61
+Sentences:                   1,438
+Words:                       26,438
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  18.39
+Flesh-Kincaid Grade Level:   9.23
+Flesh Reading Ease Score:    65.65
+Sentences:                   1,841
+Words:                       37,966
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  20.62
+Flesh-Kincaid Grade Level:   8.69
+Flesh Reading Ease Score:    64.68
+Sentences:                   3,499
+Words:                       62,735
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  17.93
+Flesh-Kincaid Grade Level:   7.69
+Flesh Reading Ease Score:    69.30
+Sentences:                   11,827
+Words:                       195,010
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  16.49
+Flesh-Kincaid Grade Level:   11.75
+Flesh Reading Ease Score:    68.47
+Sentences:                   6,523
+Words:                       211,145
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  32.37
+Flesh-Kincaid Grade Level:   8.92
+Flesh Reading Ease Score:    68.93
+Sentences:                   314
+Words:                       6,664
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  21.22
+Flesh-Kincaid Grade Level:   9.65
+Flesh Reading Ease Score:    50.58
+Sentences:                   334
+Words:                       4,627
+Averaage Syllables per Word: 1.68
+Average Words per Sentence:  13.85
+Flesh-Kincaid Grade Level:   10.93
+Flesh Reading Ease Score:    57.20
+Sentences:                   632
+Words:                       14,377
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  22.75
+Flesh-Kincaid Grade Level:   10.75
+Flesh Reading Ease Score:    60.09
+Sentences:                   561
+Words:                       13,269
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  23.65
+Flesh-Kincaid Grade Level:   6.76
+Flesh Reading Ease Score:    81.98
+Sentences:                   3,006
+Words:                       59,699
+Averaage Syllables per Word: 1.24
+Average Words per Sentence:  19.86
+Flesh-Kincaid Grade Level:   13.34
+Flesh Reading Ease Score:    38.18
+Sentences:                   34
+Words:                       740
+Averaage Syllables per Word: 1.73
+Average Words per Sentence:  21.76
+Flesh-Kincaid Grade Level:   9.58
+Flesh Reading Ease Score:    58.02
+Sentences:                   256
+Words:                       4,549
+Averaage Syllables per Word: 1.55
+Average Words per Sentence:  17.77
+Flesh-Kincaid Grade Level:   15.01
+Flesh Reading Ease Score:    29.06
+Sentences:                   23
+Words:                       537
+Averaage Syllables per Word: 1.82
+Average Words per Sentence:  23.35
+Flesh-Kincaid Grade Level:   9.76
+Flesh Reading Ease Score:    54.16
+Sentences:                   279
+Words:                       4,552
+Averaage Syllables per Word: 1.61
+Average Words per Sentence:  16.32
+Flesh-Kincaid Grade Level:   12.55
+Flesh Reading Ease Score:    54.33
+Sentences:                   2,346
+Words:                       64,861
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  27.65
+Flesh-Kincaid Grade Level:   8.35
+Flesh Reading Ease Score:    68.52
+Sentences:                   300
+Words:                       5,612
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  18.71
+Flesh-Kincaid Grade Level:   9.08
+Flesh Reading Ease Score:    67.38
+Sentences:                   4,556
+Words:                       95,766
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  21.02
+Flesh-Kincaid Grade Level:   12.27
+Flesh Reading Ease Score:    56.81
+Sentences:                   3,180
+Words:                       88,720
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  27.90
+Flesh-Kincaid Grade Level:   9.04
+Flesh Reading Ease Score:    71.15
+Sentences:                   4,232
+Words:                       97,176
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  22.96
+Flesh-Kincaid Grade Level:   10.07
+Flesh Reading Ease Score:    62.07
+Sentences:                   5,852
+Words:                       128,779
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  22.01
+Flesh-Kincaid Grade Level:   9.40
+Flesh Reading Ease Score:    61.23
+Sentences:                   2,933
+Words:                       55,314
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  18.86
+Flesh-Kincaid Grade Level:   7.78
+Flesh Reading Ease Score:    72.80
+Sentences:                   4,103
+Words:                       77,207
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  18.82
+Flesh-Kincaid Grade Level:   7.01
+Flesh Reading Ease Score:    71.56
+Sentences:                   5,352
+Words:                       80,385
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  15.02
+Flesh-Kincaid Grade Level:   6.62
+Flesh Reading Ease Score:    81.59
+Sentences:                   8,171
+Words:                       155,861
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  19.07
+Flesh-Kincaid Grade Level:   8.24
+Flesh Reading Ease Score:    70.80
+Sentences:                   2,977
+Words:                       58,240
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  19.56
+Flesh-Kincaid Grade Level:   8.12
+Flesh Reading Ease Score:    69.18
+Sentences:                   2,323
+Words:                       42,172
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  18.15
+Flesh-Kincaid Grade Level:   8.97
+Flesh Reading Ease Score:    64.77
+Sentences:                   1,873
+Words:                       35,742
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  19.08
+Flesh-Kincaid Grade Level:   9.17
+Flesh Reading Ease Score:    64.97
+Sentences:                   4,248
+Words:                       84,978
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  20.00
+Flesh-Kincaid Grade Level:   7.81
+Flesh Reading Ease Score:    72.28
+Sentences:                   3,149
+Words:                       58,687
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  18.64
+Flesh-Kincaid Grade Level:   9.52
+Flesh Reading Ease Score:    65.87
+Sentences:                   3,833
+Words:                       84,060
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  21.93
+Flesh-Kincaid Grade Level:   6.89
+Flesh Reading Ease Score:    76.94
+Sentences:                   1,563
+Words:                       27,438
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  17.55
+Flesh-Kincaid Grade Level:   7.57
+Flesh Reading Ease Score:    70.12
+Sentences:                   4,313
+Words:                       71,071
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.48
+Flesh-Kincaid Grade Level:   9.76
+Flesh Reading Ease Score:    64.74
+Sentences:                   2,540
+Words:                       56,562
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  22.27
+Flesh-Kincaid Grade Level:   7.57
+Flesh Reading Ease Score:    70.12
+Sentences:                   4,313
+Words:                       71,071
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.48
+Flesh-Kincaid Grade Level:   8.54
+Flesh Reading Ease Score:    67.05
+Sentences:                   6,359
+Words:                       118,518
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  18.64
+Flesh-Kincaid Grade Level:   9.23
+Flesh Reading Ease Score:    77.38
+Sentences:                   301
+Words:                       8,190
+Averaage Syllables per Word: 1.20
+Average Words per Sentence:  27.21
+Flesh-Kincaid Grade Level:   7.44
+Flesh Reading Ease Score:    58.38
+Sentences:                   3
+Words:                       28
+Averaage Syllables per Word: 1.64
+Average Words per Sentence:  9.33
+Flesh-Kincaid Grade Level:   8.28
+Flesh Reading Ease Score:    76.51
+Sentences:                   1,029
+Words:                       23,557
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  22.89
+Flesh-Kincaid Grade Level:   7.44
+Flesh Reading Ease Score:    58.38
+Sentences:                   3
+Words:                       28
+Averaage Syllables per Word: 1.64
+Average Words per Sentence:  9.33
+Flesh-Kincaid Grade Level:   8.20
+Flesh Reading Ease Score:    65.74
+Sentences:                   6,826
+Words:                       113,036
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  16.56
+Flesh-Kincaid Grade Level:   4.32
+Flesh Reading Ease Score:    87.82
+Sentences:                   1,697
+Words:                       22,605
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  13.32
+Flesh-Kincaid Grade Level:   8.25
+Flesh Reading Ease Score:    70.73
+Sentences:                   1,710
+Words:                       33,462
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  19.57
+Flesh-Kincaid Grade Level:   6.50
+Flesh Reading Ease Score:    75.82
+Sentences:                   2,536
+Words:                       38,918
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  15.35
+Flesh-Kincaid Grade Level:   9.79
+Flesh Reading Ease Score:    62.70
+Sentences:                   2,054
+Words:                       43,627
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  21.24
+Flesh-Kincaid Grade Level:   8.01
+Flesh Reading Ease Score:    73.29
+Sentences:                   3,319
+Words:                       66,450
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  20.02
+Flesh-Kincaid Grade Level:   6.06
+Flesh Reading Ease Score:    79.81
+Sentences:                   895
+Words:                       14,171
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  15.83
+Flesh-Kincaid Grade Level:   9.31
+Flesh Reading Ease Score:    64.08
+Sentences:                   1,508
+Words:                       30,313
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  20.10
+Flesh-Kincaid Grade Level:   7.59
+Flesh Reading Ease Score:    77.30
+Sentences:                   605
+Words:                       12,458
+Averaage Syllables per Word: 1.28
+Average Words per Sentence:  20.59
+Flesh-Kincaid Grade Level:   4.30
+Flesh Reading Ease Score:    88.34
+Sentences:                   1,841
+Words:                       24,923
+Averaage Syllables per Word: 1.24
+Average Words per Sentence:  13.54
+Flesh-Kincaid Grade Level:   8.27
+Flesh Reading Ease Score:    57.09
+Sentences:                   4,411
+Words:                       52,844
+Averaage Syllables per Word: 1.63
+Average Words per Sentence:  11.98
+Flesh-Kincaid Grade Level:   7.18
+Flesh Reading Ease Score:    78.11
+Sentences:                   595
+Words:                       11,545
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  19.40
+Flesh-Kincaid Grade Level:   16.08
+Flesh Reading Ease Score:    41.96
+Sentences:                   621
+Words:                       21,673
+Averaage Syllables per Word: 1.53
+Average Words per Sentence:  34.90
+Flesh-Kincaid Grade Level:   7.39
+Flesh Reading Ease Score:    71.26
+Sentences:                   3,931
+Words:                       64,419
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  16.39
+Flesh-Kincaid Grade Level:   7.27
+Flesh Reading Ease Score:    73.80
+Sentences:                   4,348
+Words:                       75,357
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  17.33
+Flesh-Kincaid Grade Level:   12.13
+Flesh Reading Ease Score:    53.34
+Sentences:                   2,548
+Words:                       64,760
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  25.42
+Flesh-Kincaid Grade Level:   9.12
+Flesh Reading Ease Score:    70.41
+Sentences:                   892
+Words:                       20,416
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  22.89
+Flesh-Kincaid Grade Level:   6.92
+Flesh Reading Ease Score:    73.89
+Sentences:                   2,728
+Words:                       43,514
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  15.95
+Flesh-Kincaid Grade Level:   7.43
+Flesh Reading Ease Score:    79.58
+Sentences:                   2,599
+Words:                       55,088
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  21.20
+Flesh-Kincaid Grade Level:   7.63
+Flesh Reading Ease Score:    73.21
+Sentences:                   3,753
+Words:                       69,157
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  18.43
+Flesh-Kincaid Grade Level:   7.28
+Flesh Reading Ease Score:    73.47
+Sentences:                   5,997
+Words:                       102,975
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  17.17
+Flesh-Kincaid Grade Level:   9.22
+Flesh Reading Ease Score:    68.70
+Sentences:                   1,136
+Words:                       25,364
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  22.33
+Flesh-Kincaid Grade Level:   6.99
+Flesh Reading Ease Score:    81.63
+Sentences:                   1,346
+Words:                       27,703
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  20.58
+Flesh-Kincaid Grade Level:   4.86
+Flesh Reading Ease Score:    87.18
+Sentences:                   3,282
+Words:                       49,674
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  15.14
+Flesh-Kincaid Grade Level:   13.17
+Flesh Reading Ease Score:    52.05
+Sentences:                   2,820
+Words:                       81,408
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  28.87
+Flesh-Kincaid Grade Level:   6.69
+Flesh Reading Ease Score:    79.14
+Sentences:                   3,615
+Words:                       65,022
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  17.99
+Flesh-Kincaid Grade Level:   11.93
+Flesh Reading Ease Score:    54.88
+Sentences:                   416
+Words:                       10,596
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  25.47
+Flesh-Kincaid Grade Level:   8.93
+Flesh Reading Ease Score:    71.00
+Sentences:                   579
+Words:                       12,979
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  22.42
+Flesh-Kincaid Grade Level:   7.66
+Flesh Reading Ease Score:    75.08
+Sentences:                   2,800
+Words:                       54,944
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  19.62
+Flesh-Kincaid Grade Level:   4.90
+Flesh Reading Ease Score:    82.19
+Sentences:                   2,892
+Words:                       36,153
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  12.50
+Flesh-Kincaid Grade Level:   8.13
+Flesh Reading Ease Score:    70.44
+Sentences:                   6,462
+Words:                       122,033
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  18.88
+Flesh-Kincaid Grade Level:   12.28
+Flesh Reading Ease Score:    52.86
+Sentences:                   665
+Words:                       17,110
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  25.73
+Flesh-Kincaid Grade Level:   9.85
+Flesh Reading Ease Score:    63.54
+Sentences:                   1,802
+Words:                       39,563
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  21.96
+Flesh-Kincaid Grade Level:   5.28
+Flesh Reading Ease Score:    81.07
+Sentences:                   1,347
+Words:                       18,024
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  13.38
+Flesh-Kincaid Grade Level:   8.10
+Flesh Reading Ease Score:    69.54
+Sentences:                   2,982
+Words:                       54,549
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  18.29
+Flesh-Kincaid Grade Level:   8.10
+Flesh Reading Ease Score:    69.59
+Sentences:                   2,636
+Words:                       48,283
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  18.32
+Flesh-Kincaid Grade Level:   5.51
+Flesh Reading Ease Score:    85.61
+Sentences:                   854
+Words:                       14,425
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  16.89
+Flesh-Kincaid Grade Level:   10.64
+Flesh Reading Ease Score:    68.87
+Sentences:                   1,103
+Words:                       31,039
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  28.14
+Flesh-Kincaid Grade Level:   8.30
+Flesh Reading Ease Score:    75.18
+Sentences:                   1,999
+Words:                       44,474
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  22.25
+Flesh-Kincaid Grade Level:   7.02
+Flesh Reading Ease Score:    74.41
+Sentences:                   4,789
+Words:                       79,754
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  16.65
+Flesh-Kincaid Grade Level:   6.75
+Flesh Reading Ease Score:    78.45
+Sentences:                   8,955
+Words:                       159,979
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  17.86
+Flesh-Kincaid Grade Level:   6.94
+Flesh Reading Ease Score:    77.34
+Sentences:                   3,910
+Words:                       70,362
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  18.00
+Flesh-Kincaid Grade Level:   8.41
+Flesh Reading Ease Score:    68.99
+Sentences:                   4,399
+Words:                       84,450
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  19.20
+Flesh-Kincaid Grade Level:   6.25
+Flesh Reading Ease Score:    74.21
+Sentences:                   7,309
+Words:                       98,373
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  13.46
+Flesh-Kincaid Grade Level:   8.89
+Flesh Reading Ease Score:    67.05
+Sentences:                   4,404
+Words:                       88,402
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  20.07
+Flesh-Kincaid Grade Level:   6.41
+Flesh Reading Ease Score:    79.03
+Sentences:                   8,746
+Words:                       146,836
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  16.79
+Flesh-Kincaid Grade Level:   6.41
+Flesh Reading Ease Score:    75.96
+Sentences:                   1,175
+Words:                       17,714
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  15.08
+Flesh-Kincaid Grade Level:   6.67
+Flesh Reading Ease Score:    76.07
+Sentences:                   2,764
+Words:                       44,702
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  16.17
+Flesh-Kincaid Grade Level:   7.41
+Flesh Reading Ease Score:    72.73
+Sentences:                   1,664
+Words:                       28,779
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  17.30
+Flesh-Kincaid Grade Level:   10.50
+Flesh Reading Ease Score:    60.77
+Sentences:                   3,750
+Words:                       86,234
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  23.00
+Flesh-Kincaid Grade Level:   6.96
+Flesh Reading Ease Score:    74.75
+Sentences:                   15,549
+Words:                       258,322
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.61
+Flesh-Kincaid Grade Level:   6.98
+Flesh Reading Ease Score:    74.89
+Sentences:                   1,275
+Words:                       21,404
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.79
+Flesh-Kincaid Grade Level:   9.88
+Flesh Reading Ease Score:    73.83
+Sentences:                   1,128
+Words:                       31,430
+Averaage Syllables per Word: 1.24
+Average Words per Sentence:  27.86
+Flesh-Kincaid Grade Level:   7.29
+Flesh Reading Ease Score:    75.16
+Sentences:                   2,159
+Words:                       39,257
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  18.18
+Flesh-Kincaid Grade Level:   7.86
+Flesh Reading Ease Score:    73.26
+Sentences:                   4,637
+Words:                       89,863
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  19.38
+Flesh-Kincaid Grade Level:   10.58
+Flesh Reading Ease Score:    52.11
+Sentences:                   8,267
+Words:                       152,732
+Averaage Syllables per Word: 1.61
+Average Words per Sentence:  18.47
+Flesh-Kincaid Grade Level:   9.70
+Flesh Reading Ease Score:    65.94
+Sentences:                   1,554
+Words:                       35,289
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  22.71
+Flesh-Kincaid Grade Level:   6.61
+Flesh Reading Ease Score:    74.16
+Sentences:                   4,647
+Words:                       69,069
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  14.86
+Flesh-Kincaid Grade Level:   7.44
+Flesh Reading Ease Score:    73.14
+Sentences:                   2,356
+Words:                       41,595
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  17.65
+Flesh-Kincaid Grade Level:   6.83
+Flesh Reading Ease Score:    73.30
+Sentences:                   4,964
+Words:                       75,760
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  15.26
+Flesh-Kincaid Grade Level:   8.16
+Flesh Reading Ease Score:    70.40
+Sentences:                   4,883
+Words:                       92,708
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  18.99
+Flesh-Kincaid Grade Level:   8.04
+Flesh Reading Ease Score:    73.69
+Sentences:                   2,074
+Words:                       42,245
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  20.37
+Flesh-Kincaid Grade Level:   10.42
+Flesh Reading Ease Score:    63.68
+Sentences:                   1,793
+Words:                       43,585
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  24.31
+Flesh-Kincaid Grade Level:   6.24
+Flesh Reading Ease Score:    79.48
+Sentences:                   5,157
+Words:                       84,380
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  16.36
+Flesh-Kincaid Grade Level:   10.75
+Flesh Reading Ease Score:    65.58
+Sentences:                   2,439
+Words:                       65,171
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  26.72
+Flesh-Kincaid Grade Level:   11.06
+Flesh Reading Ease Score:    66.83
+Sentences:                   4,795
+Words:                       137,568
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  28.69
+Flesh-Kincaid Grade Level:   7.73
+Flesh Reading Ease Score:    68.72
+Sentences:                   229
+Words:                       3,736
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  16.31
+Flesh-Kincaid Grade Level:   11.71
+Flesh Reading Ease Score:    53.62
+Sentences:                   1,614
+Words:                       38,544
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  23.88
+Flesh-Kincaid Grade Level:   12.51
+Flesh Reading Ease Score:    55.12
+Sentences:                   1,009
+Words:                       28,189
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  27.94
+Flesh-Kincaid Grade Level:   6.43
+Flesh Reading Ease Score:    74.41
+Sentences:                   4,309
+Words:                       61,615
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  14.30
+Flesh-Kincaid Grade Level:   8.55
+Flesh Reading Ease Score:    67.43
+Sentences:                   4,396
+Words:                       83,120
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  18.91
+Flesh-Kincaid Grade Level:   8.12
+Flesh Reading Ease Score:    65.11
+Sentences:                   432
+Words:                       6,864
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  15.89
+Flesh-Kincaid Grade Level:   12.84
+Flesh Reading Ease Score:    58.12
+Sentences:                   3,050
+Words:                       94,400
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  30.95
+Flesh-Kincaid Grade Level:   12.57
+Flesh Reading Ease Score:    52.59
+Sentences:                   2,397
+Words:                       64,156
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  26.77
+Flesh-Kincaid Grade Level:   9.85
+Flesh Reading Ease Score:    69.09
+Sentences:                   6,410
+Words:                       160,645
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  25.06
+Flesh-Kincaid Grade Level:   7.80
+Flesh Reading Ease Score:    70.67
+Sentences:                   2,698
+Words:                       47,799
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  17.72
+Flesh-Kincaid Grade Level:   9.24
+Flesh Reading Ease Score:    64.66
+Sentences:                   1,078
+Words:                       21,705
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  20.13
+Flesh-Kincaid Grade Level:   3.62
+Flesh Reading Ease Score:    82.49
+Sentences:                   3,005
+Words:                       22,632
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  7.53
+Flesh-Kincaid Grade Level:   8.94
+Flesh Reading Ease Score:    64.87
+Sentences:                   2,742
+Words:                       52,223
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  19.05
+Flesh-Kincaid Grade Level:   6.51
+Flesh Reading Ease Score:    78.41
+Sentences:                   5,863
+Words:                       98,851
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  16.86
+Flesh-Kincaid Grade Level:   5.63
+Flesh Reading Ease Score:    79.09
+Sentences:                   3,920
+Words:                       53,647
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  13.69
+Flesh-Kincaid Grade Level:   8.52
+Flesh Reading Ease Score:    70.24
+Sentences:                   1,060
+Words:                       21,575
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  20.35
+Flesh-Kincaid Grade Level:   7.56
+Flesh Reading Ease Score:    71.44
+Sentences:                   1,059
+Words:                       18,163
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  17.15
+Flesh-Kincaid Grade Level:   9.12
+Flesh Reading Ease Score:    65.18
+Sentences:                   2,500
+Words:                       49,831
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  19.93
+Flesh-Kincaid Grade Level:   6.03
+Flesh Reading Ease Score:    77.48
+Sentences:                   6,177
+Words:                       88,941
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  14.40
+Flesh-Kincaid Grade Level:   7.24
+Flesh Reading Ease Score:    74.87
+Sentences:                   11,393
+Words:                       203,047
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  17.82
+Flesh-Kincaid Grade Level:   5.30
+Flesh Reading Ease Score:    83.20
+Sentences:                   2,184
+Words:                       32,078
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  14.69
+Flesh-Kincaid Grade Level:   7.84
+Flesh Reading Ease Score:    73.15
+Sentences:                   3,308
+Words:                       63,708
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  19.26
+Flesh-Kincaid Grade Level:   8.42
+Flesh Reading Ease Score:    70.18
+Sentences:                   3,623
+Words:                       72,171
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  19.92
+Flesh-Kincaid Grade Level:   13.55
+Flesh Reading Ease Score:    62.30
+Sentences:                   3,460
+Words:                       125,026
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  36.13
+Flesh-Kincaid Grade Level:   8.69
+Flesh Reading Ease Score:    71.89
+Sentences:                   4,522
+Words:                       99,312
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  21.96
+Flesh-Kincaid Grade Level:   10.56
+Flesh Reading Ease Score:    61.28
+Sentences:                   115
+Words:                       2,707
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  23.54
+Flesh-Kincaid Grade Level:   7.56
+Flesh Reading Ease Score:    80.06
+Sentences:                   549
+Words:                       12,076
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  22.00
+Flesh-Kincaid Grade Level:   7.27
+Flesh Reading Ease Score:    74.09
+Sentences:                   645
+Words:                       11,272
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  17.48
+Flesh-Kincaid Grade Level:   7.13
+Flesh Reading Ease Score:    76.99
+Sentences:                   2,984
+Words:                       55,314
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  18.54
+Flesh-Kincaid Grade Level:   7.42
+Flesh Reading Ease Score:    79.38
+Sentences:                   1,631
+Words:                       34,341
+Averaage Syllables per Word: 1.25
+Average Words per Sentence:  21.06
+Flesh-Kincaid Grade Level:   8.92
+Flesh Reading Ease Score:    62.58
+Sentences:                   3,223
+Words:                       56,997
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  17.68
+Flesh-Kincaid Grade Level:   9.32
+Flesh Reading Ease Score:    69.23
+Sentences:                   3,370
+Words:                       77,611
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  23.03
+Flesh-Kincaid Grade Level:   7.11
+Flesh Reading Ease Score:    73.20
+Sentences:                   3,128
+Words:                       51,105
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  16.34
+Flesh-Kincaid Grade Level:   13.45
+Flesh Reading Ease Score:    47.22
+Sentences:                   4,402
+Words:                       120,174
+Averaage Syllables per Word: 1.56
+Average Words per Sentence:  27.30
+Flesh-Kincaid Grade Level:   8.65
+Flesh Reading Ease Score:    71.57
+Sentences:                   5,753
+Words:                       124,508
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  21.64
+Flesh-Kincaid Grade Level:   8.80
+Flesh Reading Ease Score:    69.29
+Sentences:                   813
+Words:                       17,024
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  20.94
+Flesh-Kincaid Grade Level:   10.87
+Flesh Reading Ease Score:    58.95
+Sentences:                   589
+Words:                       13,820
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  23.46
+Flesh-Kincaid Grade Level:   7.49
+Flesh Reading Ease Score:    74.70
+Sentences:                   782
+Words:                       14,631
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  18.71
+Flesh-Kincaid Grade Level:   7.06
+Flesh Reading Ease Score:    77.65
+Sentences:                   647
+Words:                       12,060
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  18.64
+Flesh-Kincaid Grade Level:   10.41
+Flesh Reading Ease Score:    58.79
+Sentences:                   3,179
+Words:                       68,537
+Averaage Syllables per Word: 1.49
+Average Words per Sentence:  21.56
+Flesh-Kincaid Grade Level:   8.53
+Flesh Reading Ease Score:    65.61
+Sentences:                   363
+Words:                       6,465
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  17.81
+Flesh-Kincaid Grade Level:   7.30
+Flesh Reading Ease Score:    74.76
+Sentences:                   396
+Words:                       7,116
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  17.97
+Flesh-Kincaid Grade Level:   8.38
+Flesh Reading Ease Score:    71.21
+Sentences:                   1,457
+Words:                       29,615
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  20.33
+Flesh-Kincaid Grade Level:   6.30
+Flesh Reading Ease Score:    81.55
+Sentences:                   913
+Words:                       16,233
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  17.78
+Flesh-Kincaid Grade Level:   9.67
+Flesh Reading Ease Score:    63.14
+Sentences:                   10,587
+Words:                       222,225
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  20.99
+Flesh-Kincaid Grade Level:   7.25
+Flesh Reading Ease Score:    75.44
+Sentences:                   4,070
+Words:                       73,929
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  18.16
+Flesh-Kincaid Grade Level:   11.13
+Flesh Reading Ease Score:    64.39
+Sentences:                   1,462
+Words:                       40,338
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  27.59
+Flesh-Kincaid Grade Level:   8.54
+Flesh Reading Ease Score:    71.26
+Sentences:                   1,989
+Words:                       41,794
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  21.01
+Flesh-Kincaid Grade Level:   9.57
+Flesh Reading Ease Score:    69.62
+Sentences:                   1,615
+Words:                       39,142
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  24.24
+Flesh-Kincaid Grade Level:   7.25
+Flesh Reading Ease Score:    75.44
+Sentences:                   4,070
+Words:                       73,929
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  18.16
+Flesh-Kincaid Grade Level:   7.18
+Flesh Reading Ease Score:    77.34
+Sentences:                   643
+Words:                       12,176
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  18.94
+Flesh-Kincaid Grade Level:   6.82
+Flesh Reading Ease Score:    80.19
+Sentences:                   4,266
+Words:                       81,525
+Averaage Syllables per Word: 1.27
+Average Words per Sentence:  19.11
+Flesh-Kincaid Grade Level:   7.48
+Flesh Reading Ease Score:    73.19
+Sentences:                   3,799
+Words:                       67,742
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  17.83
+Flesh-Kincaid Grade Level:   10.40
+Flesh Reading Ease Score:    63.75
+Sentences:                   6,627
+Words:                       160,799
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  24.26
+Flesh-Kincaid Grade Level:   9.31
+Flesh Reading Ease Score:    63.46
+Sentences:                   4,909
+Words:                       96,922
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  19.74
+Flesh-Kincaid Grade Level:   7.63
+Flesh Reading Ease Score:    70.69
+Sentences:                   1,771
+Words:                       30,169
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  17.04
+Flesh-Kincaid Grade Level:   8.85
+Flesh Reading Ease Score:    72.09
+Sentences:                   3,486
+Words:                       79,287
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  22.74
+Flesh-Kincaid Grade Level:   13.13
+Flesh Reading Ease Score:    51.04
+Sentences:                   1,266
+Words:                       35,629
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  28.14
+Flesh-Kincaid Grade Level:   6.06
+Flesh Reading Ease Score:    76.86
+Sentences:                   3,589
+Words:                       50,884
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  14.18
+Flesh-Kincaid Grade Level:   7.40
+Flesh Reading Ease Score:    69.94
+Sentences:                   6,169
+Words:                       96,819
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  15.69
+Flesh-Kincaid Grade Level:   6.26
+Flesh Reading Ease Score:    76.00
+Sentences:                   2,067
+Words:                       29,950
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  14.49
+Flesh-Kincaid Grade Level:   11.64
+Flesh Reading Ease Score:    54.87
+Sentences:                   1,610
+Words:                       39,092
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  24.28
+Flesh-Kincaid Grade Level:   7.83
+Flesh Reading Ease Score:    69.07
+Sentences:                   5,494
+Words:                       92,947
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  16.92
+Flesh-Kincaid Grade Level:   8.70
+Flesh Reading Ease Score:    68.25
+Sentences:                   8,092
+Words:                       161,532
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  19.96
+Flesh-Kincaid Grade Level:   7.00
+Flesh Reading Ease Score:    74.60
+Sentences:                   4,176
+Words:                       69,601
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  16.67
+Flesh-Kincaid Grade Level:   6.08
+Flesh Reading Ease Score:    81.17
+Sentences:                   829
+Words:                       13,813
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  16.66
+Flesh-Kincaid Grade Level:   13.07
+Flesh Reading Ease Score:    50.20
+Sentences:                   1,052
+Words:                       28,842
+Averaage Syllables per Word: 1.52
+Average Words per Sentence:  27.42
+Flesh-Kincaid Grade Level:   9.97
+Flesh Reading Ease Score:    62.74
+Sentences:                   1,584
+Words:                       34,799
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  21.97
+Flesh-Kincaid Grade Level:   6.11
+Flesh Reading Ease Score:    78.55
+Sentences:                   3,828
+Words:                       58,649
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  15.32
+Flesh-Kincaid Grade Level:   8.56
+Flesh Reading Ease Score:    74.16
+Sentences:                   2,453
+Words:                       55,759
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  22.73
+Flesh-Kincaid Grade Level:   7.33
+Flesh Reading Ease Score:    80.83
+Sentences:                   295
+Words:                       6,343
+Averaage Syllables per Word: 1.23
+Average Words per Sentence:  21.50
+Flesh-Kincaid Grade Level:   7.05
+Flesh Reading Ease Score:    78.57
+Sentences:                   1,092
+Words:                       20,866
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  19.11
+Flesh-Kincaid Grade Level:   12.77
+Flesh Reading Ease Score:    51.91
+Sentences:                   1,356
+Words:                       36,855
+Averaage Syllables per Word: 1.51
+Average Words per Sentence:  27.18
+Flesh-Kincaid Grade Level:   13.78
+Flesh Reading Ease Score:    41.61
+Sentences:                   2,148
+Words:                       54,706
+Averaage Syllables per Word: 1.65
+Average Words per Sentence:  25.47
+Flesh-Kincaid Grade Level:   12.66
+Flesh Reading Ease Score:    44.19
+Sentences:                   6,313
+Words:                       141,443
+Averaage Syllables per Word: 1.65
+Average Words per Sentence:  22.41
+Flesh-Kincaid Grade Level:   6.34
+Flesh Reading Ease Score:    74.05
+Sentences:                   1,614
+Words:                       22,182
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  13.74
+Flesh-Kincaid Grade Level:   9.70
+Flesh Reading Ease Score:    61.33
+Sentences:                   4,661
+Words:                       93,635
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  20.09
+Flesh-Kincaid Grade Level:   9.81
+Flesh Reading Ease Score:    56.37
+Sentences:                   4,901
+Words:                       87,118
+Averaage Syllables per Word: 1.57
+Average Words per Sentence:  17.78
+Flesh-Kincaid Grade Level:   12.28
+Flesh Reading Ease Score:    43.14
+Sentences:                   3,865
+Words:                       78,411
+Averaage Syllables per Word: 1.69
+Average Words per Sentence:  20.29
+Flesh-Kincaid Grade Level:   6.98
+Flesh Reading Ease Score:    72.86
+Sentences:                   19,082
+Words:                       297,993
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  15.62
+Flesh-Kincaid Grade Level:   6.75
+Flesh Reading Ease Score:    73.62
+Sentences:                   2,605
+Words:                       39,381
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  15.12
+Flesh-Kincaid Grade Level:   6.08
+Flesh Reading Ease Score:    77.13
+Sentences:                   2,639
+Words:                       37,985
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  14.39
+Flesh-Kincaid Grade Level:   6.34
+Flesh Reading Ease Score:    74.35
+Sentences:                   2,987
+Words:                       41,482
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  13.89
+Flesh-Kincaid Grade Level:   6.37
+Flesh Reading Ease Score:    75.21
+Sentences:                   3,413
+Words:                       49,401
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  14.47
+Flesh-Kincaid Grade Level:   8.88
+Flesh Reading Ease Score:    68.45
+Sentences:                   10,815
+Words:                       224,828
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  20.79
+Flesh-Kincaid Grade Level:   6.21
+Flesh Reading Ease Score:    79.11
+Sentences:                   1,144
+Words:                       18,350
+Averaage Syllables per Word: 1.32
+Average Words per Sentence:  16.04
+Flesh-Kincaid Grade Level:   8.45
+Flesh Reading Ease Score:    74.14
+Sentences:                   775
+Words:                       17,262
+Averaage Syllables per Word: 1.30
+Average Words per Sentence:  22.27
+Flesh-Kincaid Grade Level:   6.10
+Flesh Reading Ease Score:    80.63
+Sentences:                   1,289
+Words:                       21,223
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  16.46
+Flesh-Kincaid Grade Level:   7.99
+Flesh Reading Ease Score:    71.28
+Sentences:                   2,278
+Words:                       42,875
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  18.82
+Flesh-Kincaid Grade Level:   7.21
+Flesh Reading Ease Score:    71.43
+Sentences:                   6,108
+Words:                       96,280
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  15.76
+Flesh-Kincaid Grade Level:   6.54
+Flesh Reading Ease Score:    73.42
+Sentences:                   3,242
+Words:                       45,933
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  14.17
+Flesh-Kincaid Grade Level:   7.81
+Flesh Reading Ease Score:    68.72
+Sentences:                   3,192
+Words:                       53,097
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  16.63
+Flesh-Kincaid Grade Level:   6.87
+Flesh Reading Ease Score:    75.79
+Sentences:                   3,157
+Words:                       53,194
+Averaage Syllables per Word: 1.35
+Average Words per Sentence:  16.85
+Flesh-Kincaid Grade Level:   9.75
+Flesh Reading Ease Score:    64.95
+Sentences:                   2,283
+Words:                       50,966
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  22.32
+Flesh-Kincaid Grade Level:   7.80
+Flesh Reading Ease Score:    68.31
+Sentences:                   6,258
+Words:                       102,491
+Averaage Syllables per Word: 1.44
+Average Words per Sentence:  16.38
+Flesh-Kincaid Grade Level:   9.29
+Flesh Reading Ease Score:    63.65
+Sentences:                   3,143
+Words:                       62,157
+Averaage Syllables per Word: 1.46
+Average Words per Sentence:  19.78
+Flesh-Kincaid Grade Level:   11.62
+Flesh Reading Ease Score:    61.13
+Sentences:                   2,218
+Words:                       61,488
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  27.72
+Flesh-Kincaid Grade Level:   7.79
+Flesh Reading Ease Score:    70.04
+Sentences:                   3,203
+Words:                       55,420
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  17.30
+Flesh-Kincaid Grade Level:   11.37
+Flesh Reading Ease Score:    55.63
+Sentences:                   3,578
+Words:                       84,543
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  23.63
+Flesh-Kincaid Grade Level:   9.47
+Flesh Reading Ease Score:    60.86
+Sentences:                   3,416
+Words:                       64,647
+Averaage Syllables per Word: 1.50
+Average Words per Sentence:  18.92
+Flesh-Kincaid Grade Level:   7.54
+Flesh Reading Ease Score:    72.86
+Sentences:                   3,108
+Words:                       55,592
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  17.89
+Flesh-Kincaid Grade Level:   6.93
+Flesh Reading Ease Score:    77.75
+Sentences:                   2,857
+Words:                       51,897
+Averaage Syllables per Word: 1.31
+Average Words per Sentence:  18.16
+Flesh-Kincaid Grade Level:   9.25
+Flesh Reading Ease Score:    66.35
+Sentences:                   3,266
+Words:                       68,967
+Averaage Syllables per Word: 1.41
+Average Words per Sentence:  21.12
+Flesh-Kincaid Grade Level:   13.09
+Flesh Reading Ease Score:    52.84
+Sentences:                   4,347
+Words:                       125,977
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  28.98
+Flesh-Kincaid Grade Level:   10.67
+Flesh Reading Ease Score:    58.64
+Sentences:                   5,542
+Words:                       124,765
+Averaage Syllables per Word: 1.48
+Average Words per Sentence:  22.51
+Flesh-Kincaid Grade Level:   10.80
+Flesh Reading Ease Score:    55.14
+Sentences:                   6,868
+Words:                       144,555
+Averaage Syllables per Word: 1.54
+Average Words per Sentence:  21.05
+Flesh-Kincaid Grade Level:   8.16
+Flesh Reading Ease Score:    68.21
+Sentences:                   4,233
+Words:                       75,149
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  17.75
+Flesh-Kincaid Grade Level:   7.83
+Flesh Reading Ease Score:    74.23
+Sentences:                   2,933
+Words:                       58,076
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  19.80
+Flesh-Kincaid Grade Level:   18.17
+Flesh Reading Ease Score:    26.14
+Sentences:                   2,181
+Words:                       75,092
+Averaage Syllables per Word: 1.72
+Average Words per Sentence:  34.43
+Flesh-Kincaid Grade Level:   7.19
+Flesh Reading Ease Score:    70.46
+Sentences:                   6,637
+Words:                       100,432
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  15.13
+Flesh-Kincaid Grade Level:   8.15
+Flesh Reading Ease Score:    71.74
+Sentences:                   1,984
+Words:                       39,094
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  19.70
+Flesh-Kincaid Grade Level:   5.30
+Flesh Reading Ease Score:    83.10
+Sentences:                   3,648
+Words:                       53,367
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  14.63
+Flesh-Kincaid Grade Level:   7.56
+Flesh Reading Ease Score:    74.27
+Sentences:                   2,523
+Words:                       47,344
+Averaage Syllables per Word: 1.34
+Average Words per Sentence:  18.76
+Flesh-Kincaid Grade Level:   9.11
+Flesh Reading Ease Score:    66.23
+Sentences:                   6,561
+Words:                       134,438
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  20.49
+Flesh-Kincaid Grade Level:   8.19
+Flesh Reading Ease Score:    70.16
+Sentences:                   4,320
+Words:                       82,064
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  19.00
+Flesh-Kincaid Grade Level:   10.69
+Flesh Reading Ease Score:    62.99
+Sentences:                   81
+Words:                       2,027
+Averaage Syllables per Word: 1.40
+Average Words per Sentence:  25.02
+Flesh-Kincaid Grade Level:   6.64
+Flesh Reading Ease Score:    77.40
+Sentences:                   477
+Words:                       8,017
+Averaage Syllables per Word: 1.33
+Average Words per Sentence:  16.81
+Flesh-Kincaid Grade Level:   9.00
+Flesh Reading Ease Score:    69.36
+Sentences:                   1,765
+Words:                       38,448
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  21.78
+Flesh-Kincaid Grade Level:   9.82
+Flesh Reading Ease Score:    61.48
+Sentences:                   3,434
+Words:                       70,972
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  20.67
+Flesh-Kincaid Grade Level:   5.74
+Flesh Reading Ease Score:    77.41
+Sentences:                   3,610
+Words:                       47,673
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  13.21
+Flesh-Kincaid Grade Level:   5.91
+Flesh Reading Ease Score:    77.53
+Sentences:                   742
+Words:                       10,356
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  13.96
+Flesh-Kincaid Grade Level:   9.18
+Flesh Reading Ease Score:    64.02
+Sentences:                   1,121
+Words:                       21,875
+Averaage Syllables per Word: 1.45
+Average Words per Sentence:  19.51
+Flesh-Kincaid Grade Level:   8.33
+Flesh Reading Ease Score:    70.04
+Sentences:                   631
+Words:                       12,295
+Averaage Syllables per Word: 1.38
+Average Words per Sentence:  19.48
+Flesh-Kincaid Grade Level:   10.20
+Flesh Reading Ease Score:    60.65
+Sentences:                   3,004
+Words:                       65,255
+Averaage Syllables per Word: 1.47
+Average Words per Sentence:  21.72
+Flesh-Kincaid Grade Level:   7.47
+Flesh Reading Ease Score:    70.47
+Sentences:                   1,871
+Words:                       30,439
+Averaage Syllables per Word: 1.42
+Average Words per Sentence:  16.27
+Flesh-Kincaid Grade Level:   8.93
+Flesh Reading Ease Score:    68.96
+Sentences:                   2,122
+Words:                       45,158
+Averaage Syllables per Word: 1.37
+Average Words per Sentence:  21.28
+Flesh-Kincaid Grade Level:   7.77
+Flesh Reading Ease Score:    72.97
+Sentences:                   2,292
+Words:                       43,229
+Averaage Syllables per Word: 1.36
+Average Words per Sentence:  18.86
+Flesh-Kincaid Grade Level:   6.80
+Flesh Reading Ease Score:    79.09
+Sentences:                   2,144
+Words:                       39,439
+Averaage Syllables per Word: 1.29
+Average Words per Sentence:  18.40
+Flesh-Kincaid Grade Level:   7.70
+Flesh Reading Ease Score:    68.97
+Sentences:                   6,481
+Words:                       105,871
+Averaage Syllables per Word: 1.43
+Average Words per Sentence:  16.34
+Flesh-Kincaid Grade Level:   9.26
+Flesh Reading Ease Score:    67.03
+Sentences:                   3,404
+Words:                       73,381
+Averaage Syllables per Word: 1.39
+Average Words per Sentence:  21.56
